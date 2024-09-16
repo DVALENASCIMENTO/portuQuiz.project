@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>PortuQuiz</title>
+    <link rel="stylesheet" href="css/styles.css">
+</head>
+<body>
+    <header>
+        <h1>PortuQuiz</h1>
+        <p>Selecione um tópico para começar o quiz:</p>
+    </header>
+    <section class="topics">
+        <button onclick="loadQuiz('gramatica.json')">Gramática</button>
+        <button onclick="loadQuiz('literatura.json')">Literatura</button>
+        <button onclick="loadQuiz('redacao.json')">Redação</button>
+        <button onclick="loadQuiz('linguistica.json')">Linguística</button>
+        <button onclick="loadQuiz('interpretacao.json')">Interpretação de Texto</button>
+        <button onclick="loadQuiz('figuras.json')">Figuras de Linguagem</button>
+        <button onclick="loadQuiz('variacao.json')">Variação Linguística</button>
+    </section>
+
+    <script src="js/script.js"></script>
+</body>
+</html>

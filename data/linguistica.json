@@ -1,0 +1,665 @@
+{
+    "questions": [
+      {
+        "number": 1,
+        "question": "Qual é o foco principal da fonética articulatória?",
+        "options": [
+          "A) A percepção dos sons pelos ouvintes",
+          "B) A produção dos sons pelos órgãos de fala",
+          "C) As propriedades físicas dos sons",
+          "D) O estudo dos fonemas"
+        ],
+        "answer": "B"
+      },
+      {
+        "number": 2,
+        "question": "Qual das seguintes áreas é abordada pela fonética acústica?",
+        "options": [
+          "A) Como os sons são produzidos",
+          "B) A percepção dos sons pelos ouvintes",
+          "C) As propriedades físicas dos sons",
+          "D) A organização dos fonemas"
+        ],
+        "answer": "C"
+      },
+      {
+        "number": 3,
+        "question": "A fonologia se concentra em qual aspecto dos sons da linguagem?",
+        "options": [
+          "A) A produção dos sons",
+          "B) A percepção dos sons",
+          "C) A organização dos fonemas",
+          "D) As propriedades físicas dos sons"
+        ],
+        "answer": "C"
+      },
+      {
+        "number": 4,
+        "question": "Qual é a principal unidade de som com valor distintivo na fonologia?",
+        "options": [
+          "A) Fone",
+          "B) Morfema",
+          "C) Fonema",
+          "D) Palavra"
+        ],
+        "answer": "C"
+      },
+      {
+        "number": 5,
+        "question": "O que a morfologia estuda?",
+        "options": [
+          "A) A produção dos sons",
+          "B) A estrutura das palavras",
+          "C) A percepção dos sons",
+          "D) O uso da linguagem em contexto"
+        ],
+        "answer": "B"
+      },
+      {
+        "number": 6,
+        "question": "Os morfemas lexicais são responsáveis por:",
+        "options": [
+          "A) Modificar o significado das palavras",
+          "B) Formar palavras compostas",
+          "C) Dar sentido às palavras",
+          "D) Indicar funções gramaticais"
+        ],
+        "answer": "C"
+      },
+      {
+        "number": 7,
+        "question": "Qual é a função dos morfemas gramaticais?",
+        "options": [
+          "A) Formar novas palavras",
+          "B) Dar sentido às palavras",
+          "C) Modificar ou complementar o significado das palavras",
+          "D) Criar palavras compostas"
+        ],
+        "answer": "C"
+      },
+      {
+        "number": 8,
+        "question": "Qual é a principal preocupação da sintaxe?",
+        "options": [
+          "A) O significado das palavras",
+          "B) A produção dos sons",
+          "C) A organização das palavras em frases",
+          "D) A aquisição da linguagem"
+        ],
+        "answer": "C"
+      },
+      {
+        "number": 9,
+        "question": "O que a sintaxe analisa sobre as palavras em uma frase?",
+        "options": [
+          "A) A sua percepção pelos ouvintes",
+          "B) A sua produção pelos órgãos de fala",
+          "C) A sua função sintática",
+          "D) As suas propriedades físicas"
+        ],
+        "answer": "C"
+      },
+      {
+        "number": 10,
+        "question": "Qual teoria na sintaxe estuda como as palavras se relacionam entre si?",
+        "options": [
+          "A) Teoria dos Atos de Fala",
+          "B) Teoria da Ligação",
+          "C) Teoria de Estrutura Frasal",
+          "D) Teoria da Pragmática"
+        ],
+        "answer": "C"
+      },
+      {
+        "number": 11,
+        "question": "Qual aspecto a semântica investiga?",
+        "options": [
+          "A) A produção dos sons",
+          "B) A estrutura das palavras",
+          "C) O significado das palavras e frases",
+          "D) A aquisição da linguagem"
+        ],
+        "answer": "C"
+      },
+      {
+        "number": 12,
+        "question": "O que é o significado lexical?",
+        "options": [
+          "A) O sentido das frases",
+          "B) A forma como o contexto modifica o significado",
+          "C) O sentido das palavras individuais",
+          "D) A organização dos fonemas"
+        ],
+        "answer": "C"
+      },
+      {
+        "number": 13,
+        "question": "Qual conceito trata da relação entre palavras e frases em semântica?",
+        "options": [
+          "A) Sinonímia",
+          "B) Polissemia",
+          "C) Significado frasal",
+          "D) Homonímia"
+        ],
+        "answer": "C"
+      },
+      {
+        "number": 14,
+        "question": "O que a pragmática estuda sobre o uso da linguagem?",
+        "options": [
+          "A) O significado implícito",
+          "B) A estrutura das palavras",
+          "C) A produção dos sons",
+          "D) A aquisição da linguagem"
+        ],
+        "answer": "A"
+      },
+      {
+        "number": 15,
+        "question": "Qual teoria classifica enunciados em atos locutivos, ilocutivos e perlocutivos?",
+        "options": [
+          "A) Teoria da Ligação",
+          "B) Teoria dos Atos de Fala",
+          "C) Teoria de Estrutura Frasal",
+          "D) Teoria da Pragmática"
+        ],
+        "answer": "B"
+      },
+      {
+        "number": 16,
+        "question": "O que a sociolinguística examina sobre a língua e a sociedade?",
+        "options": [
+          "A) A produção dos sons",
+          "B) A relação entre a língua e a sociedade",
+          "C) A estrutura das palavras",
+          "D) A aquisição da linguagem"
+        ],
+        "answer": "B"
+      },
+      {
+        "number": 17,
+        "question": "Qual é o foco da variação linguística na sociolinguística?",
+        "options": [
+          "A) A percepção dos sons",
+          "B) A organização dos fonemas",
+          "C) Diferenças fonológicas, sintáticas, léxicas e morfológicas entre grupos",
+          "D) A estrutura das palavras"
+        ],
+        "answer": "C"
+      },
+      {
+        "number": 18,
+        "question": "Qual fenômeno a psicolinguística estuda relacionado ao cérebro?",
+        "options": [
+          "A) A produção dos sons",
+          "B) O processamento linguístico",
+          "C) A estrutura das palavras",
+          "D) A aquisição da linguagem"
+        ],
+        "answer": "B"
+      },
+      {
+        "number": 19,
+        "question": "Qual é o foco da psicologia na aquisição da linguagem?",
+        "options": [
+          "A) O processamento dos sons",
+          "B) A produção dos fonemas",
+          "C) O desenvolvimento da capacidade de falar e entender uma língua",
+          "D) A estrutura das palavras"
+        ],
+        "answer": "C"
+      },
+      {
+        "number": 20,
+        "question": "O que a linguística histórica estuda?",
+        "options": [
+          "A) O uso da linguagem em contexto",
+          "B) A evolução das línguas ao longo do tempo",
+          "C) A estrutura das palavras",
+          "D) O significado das palavras"
+        ],
+        "answer": "B"
+      },
+      {
+        "number": 21,
+        "question": "Qual aspecto a linguística aplicada abrange?",
+        "options": [
+          "A) A análise de corpus",
+          "B) A aplicação dos conhecimentos linguísticos em áreas práticas",
+          "C) O estudo dos processos cognitivos",
+          "D) A evolução das línguas"
+        ],
+        "answer": "B"
+      },
+      {
+        "number": 22,
+        "question": "Qual é o foco da neurolinguística?",
+        "options": [
+          "A) A evolução das línguas",
+          "B) A aplicação dos conhecimentos linguísticos",
+          "C) Como o cérebro processa a linguagem",
+          "D) A estrutura das palavras"
+        ],
+        "answer": "C"
+      },
+      {
+        "number": 23,
+        "question": "O que a análise do discurso crítica examina?",
+        "options": [
+          "A) O uso da linguagem em textos e contextos sociais",
+          "B) As propriedades físicas dos sons",
+          "C) A estrutura das palavras",
+          "D) O processamento linguístico"
+        ],
+        "answer": "A"
+      },
+      {
+        "number": 24,
+        "question": "O que a análise do discurso investiga sobre a linguagem?",
+        "options": [
+          "A) O significado implícito",
+          "B) A produção dos sons",
+          "C) A estrutura das palavras",
+          "D) O uso da linguagem para manter ou desafiar estruturas de poder"
+        ],
+        "answer": "D"
+      },
+      {
+        "number": 25,
+        "question": "O que são corpora na linguística?",
+        "options": [
+          "A) Estruturas gramaticais",
+          "B) Bancos de dados linguísticos",
+          "C) Processos cognitivos",
+          "D) Unidades de som"
+        ],
+        "answer": "B"
+      },
+      {
+        "number": 26,
+        "question": "Qual é a principal preocupação da fonética auditiva?",
+        "options": [
+          "A) Como os sons são produzidos",
+          "B) As propriedades físicas dos sons",
+          "C) Como os sons são percebidos pelos ouvintes",
+          "D) A organização dos fonemas"
+        ],
+        "answer": "C"
+      },
+      {
+        "number": 27,
+        "question": "O que é a morfologia da formação de palavras?",
+        "options": [
+          "A) O estudo das palavras em contexto social",
+          "B) O estudo dos processos de derivação, composição e sigla",
+          "C) A análise das propriedades físicas dos sons",
+          "D) A classificação dos morfemas"
+        ],
+        "answer": "B"
+      },
+      {
+        "number": 28,
+        "question": "Qual conceito a sintaxe utiliza para entender como palavras formam orações?",
+        "options": [
+          "A) Teoria de Estrutura Frasal",
+          "B) Teoria dos Atos de Fala",
+          "C) Teoria da Variação Linguística",
+          "D) Teoria da Pragmática"
+        ],
+        "answer": "A"
+      },
+      {
+        "number": 29,
+        "question": "Qual é a principal preocupação da semântica frasal?",
+        "options": [
+          "A) O sentido das palavras individuais",
+          "B) O contexto e como ele modifica o significado",
+          "C) A produção dos sons",
+          "D) A estrutura das palavras"
+        ],
+        "answer": "B"
+      },
+      {
+        "number": 30,
+        "question": "Qual é um dos focos da pragmática na análise de comunicação?",
+        "options": [
+          "A) As propriedades físicas dos sons",
+          "B) O significado implícito",
+          "C) A organização dos fonemas",
+          "D) A estrutura das palavras"
+        ],
+        "answer": "B"
+      },
+      {
+        "number": 31,
+        "question": "Qual conceito a sociolinguística estuda relacionado a fatores sociais?",
+        "options": [
+          "A) A estrutura das palavras",
+          "B) O significado das palavras",
+          "C) A relação entre língua e sociedade",
+          "D) A produção dos sons"
+        ],
+        "answer": "C"
+      },
+      {
+        "number": 32,
+        "question": "Qual fenômeno a psicolinguística examina no desenvolvimento linguístico infantil?",
+        "options": [
+          "A) O processamento dos sons",
+          "B) A produção dos fonemas",
+          "C) A aquisição da linguagem",
+          "D) A estrutura das palavras"
+        ],
+        "answer": "C"
+      },
+      {
+        "number": 33,
+        "question": "Qual aspecto a linguística histórica observa nas línguas?",
+        "options": [
+          "A) Como elas mudam ao longo do tempo",
+          "B) Como são produzidos os sons",
+          "C) Como são estruturadas as palavras",
+          "D) Como a língua é usada em contexto social"
+        ],
+        "answer": "A"
+      },
+      {
+        "number": 34,
+        "question": "Qual é um dos principais objetivos da linguística aplicada?",
+        "options": [
+          "A) Analisar o significado das palavras",
+          "B) Aplicar conhecimentos linguísticos em áreas práticas",
+          "C) Estudar a evolução das línguas",
+          "D) Examinar o processamento linguístico"
+        ],
+        "answer": "B"
+      },
+      {
+        "number": 35,
+        "question": "O que a neurolinguística investiga sobre a afasia?",
+        "options": [
+          "A) Como o cérebro processa a linguagem",
+          "B) A perda parcial ou total da capacidade de linguagem devido a danos cerebrais",
+          "C) O desenvolvimento da capacidade de falar",
+          "D) O significado das palavras e frases"
+        ],
+        "answer": "B"
+      },
+      {
+        "number": 36,
+        "question": "Qual é um dos principais focos da análise do discurso crítica?",
+        "options": [
+          "A) O uso da linguagem para refletir e construir poder",
+          "B) A produção dos sons",
+          "C) A estrutura das palavras",
+          "D) A aquisição da linguagem"
+        ],
+        "answer": "A"
+      },
+      {
+        "number": 37,
+        "question": "Qual conceito na análise do discurso refere-se a como diferentes textos se relacionam?",
+        "options": [
+          "A) Intertextualidade",
+          "B) Sinonímia",
+          "C) Polissemia",
+          "D) Homonímia"
+        ],
+        "answer": "A"
+      },
+      {
+        "number": 38,
+        "question": "Qual é a principal aplicação dos corpora na linguística?",
+        "options": [
+          "A) Estudar a produção dos sons",
+          "B) Analisar padrões de uso linguístico em grandes conjuntos de dados",
+          "C) Examinar a estrutura das palavras",
+          "D) Investigar o significado das palavras"
+        ],
+        "answer": "B"
+      },
+      {
+        "number": 39,
+        "question": "Qual teoria da sintaxe examina a forma como as palavras se combinam para formar orações?",
+        "options": [
+          "A) Teoria dos Atos de Fala",
+          "B) Teoria da Pragmática",
+          "C) Teoria de Estrutura Frasal",
+          "D) Teoria da Variação Linguística"
+        ],
+        "answer": "C"
+      },
+      {
+        "number": 40,
+        "question": "Qual fenômeno a semântica trata em relação às palavras com mais de um significado?",
+        "options": [
+          "A) Sinonímia",
+          "B) Polissemia",
+          "C) Homonímia",
+          "D) Antônimia"
+        ],
+        "answer": "B"
+      },
+      {
+        "number": 41,
+        "question": "O que a pragmática estuda sobre a linguagem corporal?",
+        "options": [
+          "A) O significado explícito",
+          "B) O uso da linguagem em contexto",
+          "C) A estrutura das palavras",
+          "D) O significado implícito"
+        ],
+        "answer": "D"
+      },
+      {
+        "number": 42,
+        "question": "Qual conceito na sociolinguística explora a influência de fatores sociais na língua?",
+        "options": [
+          "A) Variação linguística",
+          "B) Teoria da Pragmática",
+          "C) Análise do Discurso",
+          "D) Teoria dos Atos de Fala"
+        ],
+        "answer": "A"
+      },
+      {
+        "number": 43,
+        "question": "Qual aspecto da psicolinguística está relacionado ao processamento e compreensão textual?",
+        "options": [
+          "A) Aquisição da linguagem",
+          "B) Processamento linguístico",
+          "C) Memória",
+          "D) Produção dos fonemas"
+        ],
+        "answer": "B"
+      },
+      {
+        "number": 44,
+        "question": "Qual é um dos objetivos principais da linguística histórica?",
+        "options": [
+          "A) Estudar a estrutura das palavras",
+          "B) Reconstruir línguas antigas",
+          "C) Analisar a produção dos sons",
+          "D) Examinar a aquisição da linguagem"
+        ],
+        "answer": "B"
+      },
+      {
+        "number": 45,
+        "question": "Qual aplicação prática da linguística aplicada está relacionada ao ensino de línguas?",
+        "options": [
+          "A) Desenvolvimento de métodos de ensino",
+          "B) Análise do discurso",
+          "C) Estudos de corpus",
+          "D) Sociolinguística"
+        ],
+        "answer": "A"
+      },
+      {
+        "number": 46,
+        "question": "Qual é um dos focos da neurolinguística ao estudar a linguagem?",
+        "options": [
+          "A) O impacto da sociedade na linguagem",
+          "B) A estrutura das palavras",
+          "C) O cérebro e as áreas envolvidas na produção e compreensão da linguagem",
+          "D) O significado das palavras"
+        ],
+        "answer": "C"
+      },
+      {
+        "number": 47,
+        "question": "O que a análise do discurso crítica examina em relação ao poder?",
+        "options": [
+          "A) Como a linguagem reflete e constrói poder",
+          "B) As propriedades físicas dos sons",
+          "C) O significado das palavras",
+          "D) A estrutura das palavras"
+        ],
+        "answer": "A"
+      },
+      {
+        "number": 48,
+        "question": "Qual conceito se refere à relação entre textos na análise do discurso?",
+        "options": [
+          "A) Intertextualidade",
+          "B) Variação linguística",
+          "C) Polissemia",
+          "D) Sinonímia"
+        ],
+        "answer": "A"
+      },
+      {
+        "number": 49,
+        "question": "Qual é um dos objetivos da semântica em relação ao significado das frases?",
+        "options": [
+          "A) Estudar o sentido das palavras individuais",
+          "B) Compreender o sentido das frases e o impacto do contexto",
+          "C) Examinar os sons produzidos",
+          "D) Analisar a estrutura das palavras"
+        ],
+        "answer": "B"
+      },
+      {
+        "number": 50,
+        "question": "Qual teoria da sintaxe está relacionada ao papel das palavras nas frases?",
+        "options": [
+          "A) Teoria dos Atos de Fala",
+          "B) Teoria da Variação Linguística",
+          "C) Teoria da Estrutura Frasal",
+          "D) Teoria da Pragmática"
+        ],
+        "answer": "C"
+      },
+      {
+        "number": 51,
+        "question": "Qual conceito na morfologia está relacionado aos afixos que modificam o significado das palavras?",
+        "options": [
+          "A) Morfemas lexicais",
+          "B) Morfemas gramaticais",
+          "C) Derivação",
+          "D) Composição"
+        ],
+        "answer": "B"
+      },
+      {
+        "number": 52,
+        "question": "Qual fenômeno da fonologia estuda a organização dos fonemas em uma língua?",
+        "options": [
+          "A) Fonética articulatória",
+          "B) Fonética auditiva",
+          "C) Fonética acústica",
+          "D) Fonologia"
+        ],
+        "answer": "D"
+      },
+      {
+        "number": 53,
+        "question": "Qual é um dos principais focos da análise do discurso?",
+        "options": [
+          "A) Estudar a estrutura das palavras",
+          "B) Investigar o uso da linguagem em contextos sociais",
+          "C) Analisar a produção dos sons",
+          "D) Compreender o significado das palavras"
+        ],
+        "answer": "B"
+      },
+      {
+        "number": 54,
+        "question": "Qual conceito a psicolinguística explora no processamento linguístico?",
+        "options": [
+          "A) A estrutura das palavras",
+          "B) A aquisição da linguagem",
+          "C) A memória e compreensão textual",
+          "D) A variação linguística"
+        ],
+        "answer": "C"
+      },
+      {
+        "number": 55,
+        "question": "Qual teoria da linguística histórica examina as mudanças nas línguas ao longo do tempo?",
+        "options": [
+          "A) Teoria da Pragmática",
+          "B) Teoria da Variação Linguística",
+          "C) Teoria das Mudanças Linguísticas",
+          "D) Teoria dos Atos de Fala"
+        ],
+        "answer": "C"
+      },
+      {
+        "number": 56,
+        "question": "Qual é um dos focos da linguística aplicada em relação ao bilingüismo?",
+        "options": [
+          "A) Estudar o desenvolvimento de métodos de ensino de línguas",
+          "B) Aplicar conhecimentos linguísticos na tradução",
+          "C) Explorar a política linguística",
+          "D) Analisar o desenvolvimento de línguas"
+        ],
+        "answer": "A"
+      },
+      {
+        "number": 57,
+        "question": "Qual condição a neurolinguística investiga que afeta a capacidade de falar?",
+        "options": [
+          "A) Dislexia",
+          "B) Afasia",
+          "C) Amnésia",
+          "D) Síndrome de Tourette"
+        ],
+        "answer": "B"
+      },
+      {
+        "number": 58,
+        "question": "Qual conceito a sociolinguística examina em relação à variação linguística?",
+        "options": [
+          "A) A estrutura das palavras",
+          "B) As relações entre palavras",
+          "C) As diferenças entre dialetos e gírias",
+          "D) A aquisição da linguagem"
+        ],
+        "answer": "C"
+      },
+      {
+        "number": 59,
+        "question": "Qual é um dos principais focos da análise do discurso crítica?",
+        "options": [
+          "A) A produção dos fonemas",
+          "B) A estrutura das palavras",
+          "C) O impacto da linguagem nas estruturas de poder",
+          "D) A aquisição da linguagem"
+        ],
+        "answer": "C"
+      },
+      {
+        "number": 60,
+        "question": "Qual conceito se refere ao estudo dos sons da fala e sua percepção na fonética?",
+        "options": [
+          "A) Fonética articulatória",
+          "B) Fonética acústica",
+          "C) Fonética auditiva",
+          "D) Fonologia"
+        ],
+        "answer": "C"
+      }
+    ]
+  }
+  

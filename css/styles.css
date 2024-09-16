@@ -1,0 +1,48 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f8ff;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+
+header h1 {
+    font-size: 2.5rem;
+    color: #4b0082;
+    margin-top: 20px;
+}
+
+header p {
+    font-size: 1.2rem;
+    color: #696969;
+}
+
+section.topics {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin-top: 30px;
+}
+
+button {
+    background-color: #4b0082;
+    color: white;
+    font-size: 1rem;
+    padding: 15px;
+    margin: 10px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+}
+
+button:hover {
+    background-color: #9932cc;
+}
+
+@media only screen and (max-width: 600px) {
+    button {
+        width: 80%;
+        padding: 10px;
+    }
+}

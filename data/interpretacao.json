@@ -1,0 +1,665 @@
+{
+    "questions": [
+      {
+        "number": 1,
+        "question": "O que a compreensão literal do texto envolve?",
+        "options": [
+          "A) Identificação de informações explícitas",
+          "B) Inferência de informações não claramente expressas",
+          "C) Avaliação crítica do conteúdo",
+          "D) Identificação de estruturas textuais"
+        ],
+        "answer": "A"
+      },
+      {
+        "number": 2,
+        "question": "Qual é um exemplo de pergunta de compreensão literal?",
+        "options": [
+          "A) O que o personagem provavelmente fará a seguir?",
+          "B) Qual é o impacto do tom do autor?",
+          "C) Quem é o personagem principal da história?",
+          "D) Como o contexto influencia a interpretação do texto?"
+        ],
+        "answer": "C"
+      },
+      {
+        "number": 3,
+        "question": "Qual habilidade é necessária para a compreensão inferencial?",
+        "options": [
+          "A) Identificar informações explícitas",
+          "B) Ler nas entrelinhas",
+          "C) Avaliar o tom do autor",
+          "D) Identificar estruturas textuais"
+        ],
+        "answer": "B"
+      },
+      {
+        "number": 4,
+        "question": "O que é exigido em uma pergunta inferencial?",
+        "options": [
+          "A) Identificar informações diretamente mencionadas",
+          "B) Deduzir informações que não estão claramente expressas",
+          "C) Avaliar a perspectiva do autor",
+          "D) Analisar a estrutura das palavras"
+        ],
+        "answer": "B"
+      },
+      {
+        "number": 5,
+        "question": "Qual é o foco principal da compreensão crítica?",
+        "options": [
+          "A) Identificar fatos e eventos mencionados",
+          "B) Analisar a estrutura das frases",
+          "C) Avaliar a consistência e a persuasão do conteúdo",
+          "D) Compreender o significado das palavras"
+        ],
+        "answer": "C"
+      },
+      {
+        "number": 6,
+        "question": "O que deve ser considerado na compreensão crítica de um texto?",
+        "options": [
+          "A) Apenas o conteúdo explícito",
+          "B) A perspectiva do autor e a consistência dos argumentos",
+          "C) Apenas a estrutura textual",
+          "D) Somente os recursos linguísticos"
+        ],
+        "answer": "B"
+      },
+      {
+        "number": 7,
+        "question": "Qual é a importância de identificar estruturas textuais?",
+        "options": [
+          "A) Para compreender o impacto das figuras de linguagem",
+          "B) Para entender como o autor organiza e apresenta suas ideias",
+          "C) Para avaliar o contexto histórico do texto",
+          "D) Para identificar o público-alvo do texto"
+        ],
+        "answer": "B"
+      },
+      {
+        "number": 8,
+        "question": "Qual estrutura textual envolve causas e efeitos?",
+        "options": [
+          "A) Comparação",
+          "B) Enumeração",
+          "C) Problema e solução",
+          "D) Causa e consequência"
+        ],
+        "answer": "D"
+      },
+      {
+        "number": 9,
+        "question": "Quais são exemplos de recursos linguísticos e estilísticos?",
+        "options": [
+          "A) Conjunções e pronomes",
+          "B) Figuras de linguagem e recursos coesivos",
+          "C) Apenas figuras de linguagem",
+          "D) Apenas recursos coesivos"
+        ],
+        "answer": "B"
+      },
+      {
+        "number": 10,
+        "question": "Qual é a função das figuras de linguagem na interpretação do texto?",
+        "options": [
+          "A) Ajudar a identificar a estrutura do texto",
+          "B) Enriquecer a interpretação com significados subjacentes",
+          "C) Explicar o contexto histórico do texto",
+          "D) Identificar o gênero textual"
+        ],
+        "answer": "B"
+      },
+      {
+        "number": 11,
+        "question": "Qual é uma característica importante dos gêneros textuais?",
+        "options": [
+          "A) A capacidade de apresentar argumentos convincentes",
+          "B) As características próprias que influenciam a interpretação",
+          "C) A utilização de figuras de linguagem",
+          "D) O contexto histórico em que foram escritos"
+        ],
+        "answer": "B"
+      },
+      {
+        "number": 12,
+        "question": "O que a leitura crítica e reflexiva envolve?",
+        "options": [
+          "A) Identificar informações explícitas",
+          "B) Questionar o texto e analisar intenções e viéses",
+          "C) Compreender a estrutura do texto",
+          "D) Reconhecer figuras de linguagem"
+        ],
+        "answer": "B"
+      },
+      {
+        "number": 13,
+        "question": "Qual é o propósito de identificar referências intertextuais?",
+        "options": [
+          "A) Melhorar a compreensão literal do texto",
+          "B) Enriquecer a interpretação estabelecendo conexões com outras obras",
+          "C) Avaliar a consistência dos argumentos",
+          "D) Identificar a estrutura textual"
+        ],
+        "answer": "B"
+      },
+      {
+        "number": 14,
+        "question": "Como o contexto de produção afeta a interpretação do texto?",
+        "options": [
+          "A) Ajuda a identificar a estrutura do texto",
+          "B) Influencia a compreensão das motivações e temas do autor",
+          "C) Facilita a identificação de figuras de linguagem",
+          "D) Determina o gênero textual"
+        ],
+        "answer": "B"
+      },
+      {
+        "number": 15,
+        "question": "Qual é uma dica importante para uma boa interpretação de texto?",
+        "options": [
+          "A) Focar apenas nos detalhes",
+          "B) Ler com atenção e fazer inferências",
+          "C) Ignorar o contexto histórico",
+          "D) Analisar somente a estrutura das frases"
+        ],
+        "answer": "B"
+      },
+      {
+        "number": 16,
+        "question": "Qual tipo de pergunta exige que o leitor deduza informações implícitas?",
+        "options": [
+          "A) Compreensão literal",
+          "B) Compreensão crítica",
+          "C) Compreensão inferencial",
+          "D) Identificação de estruturas textuais"
+        ],
+        "answer": "C"
+      },
+      {
+        "number": 17,
+        "question": "O que a identificação de figuras de linguagem ajuda a compreender?",
+        "options": [
+          "A) O significado explícito das palavras",
+          "B) O impacto e o significado subjacente do texto",
+          "C) A estrutura gramatical do texto",
+          "D) O contexto histórico do texto"
+        ],
+        "answer": "B"
+      },
+      {
+        "number": 18,
+        "question": "O que a leitura crítica questiona sobre o texto?",
+        "options": [
+          "A) Apenas os fatos mencionados",
+          "B) A perspectiva do autor e a consistência do conteúdo",
+          "C) A estrutura das frases",
+          "D) O gênero textual"
+        ],
+        "answer": "B"
+      },
+      {
+        "number": 19,
+        "question": "Qual elemento é importante para reconhecer nas estruturas textuais?",
+        "options": [
+          "A) O uso de figuras de linguagem",
+          "B) A organização e apresentação das ideias",
+          "C) O impacto das referências intertextuais",
+          "D) A análise do contexto histórico"
+        ],
+        "answer": "B"
+      },
+      {
+        "number": 20,
+        "question": "Qual é uma característica dos textos informativos?",
+        "options": [
+          "A) Foco na subjetividade",
+          "B) Uso de figuras de linguagem",
+          "C) Apresentação de fatos e argumentos",
+          "D) Estrutura narrativa com personagens"
+        ],
+        "answer": "C"
+      },
+      {
+        "number": 21,
+        "question": "Qual é o objetivo principal da compreensão inferencial?",
+        "options": [
+          "A) Identificar informações diretamente mencionadas",
+          "B) Ler nas entrelinhas e deduzir informações",
+          "C) Avaliar a estrutura das palavras",
+          "D) Analisar o impacto do contexto histórico"
+        ],
+        "answer": "B"
+      },
+      {
+        "number": 22,
+        "question": "Qual habilidade é desenvolvida ao identificar o propósito do autor?",
+        "options": [
+          "A) Compreensão literal",
+          "B) Compreensão inferencial",
+          "C) Compreensão crítica",
+          "D) Identificação de estruturas textuais"
+        ],
+        "answer": "C"
+      },
+      {
+        "number": 23,
+        "question": "Qual aspecto a compreensão crítica considera ao avaliar um texto?",
+        "options": [
+          "A) Apenas o conteúdo literal",
+          "B) O impacto e a persuasão do conteúdo",
+          "C) A organização das ideias",
+          "D) A utilização de recursos coesivos"
+        ],
+        "answer": "B"
+      },
+      {
+        "number": 24,
+        "question": "Qual é a função dos recursos coesivos em um texto?",
+        "options": [
+          "A) Melhorar a compreensão literal",
+          "B) Conectar ideias e manter a coesão do texto",
+          "C) Identificar o gênero textual",
+          "D) Analisar a consistência dos argumentos"
+        ],
+        "answer": "B"
+      },
+      {
+        "number": 25,
+        "question": "O que a compreensão crítica pode ajudar a identificar sobre o autor?",
+        "options": [
+          "A) O público-alvo",
+          "B) A perspectiva e intenções do autor",
+          "C) A estrutura textual",
+          "D) A organização dos fatos"
+        ],
+        "answer": "B"
+      },
+      {
+        "number": 26,
+        "question": "Qual é a importância de reconhecer o gênero textual?",
+        "options": [
+          "A) Compreender a estrutura e o propósito do texto",
+          "B) Identificar figuras de linguagem",
+          "C) Avaliar a consistência dos argumentos",
+          "D) Analisar o contexto histórico"
+        ],
+        "answer": "A"
+      },
+      {
+        "number": 27,
+        "question": "Qual é uma característica comum dos textos literários?",
+        "options": [
+          "A) Apresentação de fatos e argumentos",
+          "B) Uso extensivo de recursos coesivos",
+          "C) Foco na subjetividade e sentidos figurados",
+          "D) Estrutura informativa clara e direta"
+        ],
+        "answer": "C"
+      },
+      {
+        "number": 28,
+        "question": "O que a análise do contexto histórico pode revelar sobre um texto?",
+        "options": [
+          "A) A estrutura do texto",
+          "B) O propósito do autor e as motivações",
+          "C) O impacto das figuras de linguagem",
+          "D) O público-alvo do texto"
+        ],
+        "answer": "B"
+      },
+      {
+        "number": 29,
+        "question": "Qual é um exemplo de estrutura textual que envolve comparação?",
+        "options": [
+          "A) Problema e solução",
+          "B) Enumeração",
+          "C) Causa e consequência",
+          "D) Comparação entre dois elementos"
+        ],
+        "answer": "D"
+      },
+      {
+        "number": 30,
+        "question": "Qual é um recurso estilístico importante na interpretação de um texto?",
+        "options": [
+          "A) Identificação de estruturas textuais",
+          "B) Reconhecimento de figuras de linguagem",
+          "C) Compreensão literal das informações",
+          "D) Avaliação da consistência dos argumentos"
+        ],
+        "answer": "B"
+      },
+      {
+        "number": 31,
+        "question": "Qual elemento é fundamental para a leitura crítica?",
+        "options": [
+          "A) Identificação do público-alvo",
+          "B) Questionamento do texto e análise de viéses",
+          "C) Compreensão das informações explícitas",
+          "D) Reconhecimento do gênero textual"
+        ],
+        "answer": "B"
+      },
+      {
+        "number": 32,
+        "question": "Qual é a principal característica dos textos de opinião?",
+        "options": [
+          "A) Apresentação objetiva de fatos",
+          "B) Uso de figuras de linguagem e subjetividade",
+          "C) Estrutura narrativa com personagens",
+          "D) Foco em dados e argumentos científicos"
+        ],
+        "answer": "B"
+      },
+      {
+        "number": 33,
+        "question": "Como a compreensão crítica pode influenciar a interpretação de um texto?",
+        "options": [
+          "A) Ao focar apenas nos detalhes",
+          "B) Ao avaliar a consistência e a persuasão dos argumentos",
+          "C) Ao identificar a estrutura das frases",
+          "D) Ao analisar apenas o contexto histórico"
+        ],
+        "answer": "B"
+      },
+      {
+        "number": 34,
+        "question": "Qual é a função das figuras de linguagem em um texto literário?",
+        "options": [
+          "A) Melhorar a coesão e a clareza",
+          "B) Enriquecer a interpretação com significados profundos",
+          "C) Identificar o gênero do texto",
+          "D) Avaliar a consistência dos argumentos"
+        ],
+        "answer": "B"
+      },
+      {
+        "number": 35,
+        "question": "Qual é um exemplo de estrutura textual que apresenta um problema e sua solução?",
+        "options": [
+          "A) Enumeração",
+          "B) Causa e consequência",
+          "C) Problema e solução",
+          "D) Comparação"
+        ],
+        "answer": "C"
+      },
+      {
+        "number": 36,
+        "question": "Como o reconhecimento de referências intertextuais pode enriquecer a interpretação?",
+        "options": [
+          "A) Melhorando a compreensão literal",
+          "B) Estabelecendo conexões com outras obras e contextos",
+          "C) Analisando a estrutura textual",
+          "D) Avaliando a perspectiva do autor"
+        ],
+        "answer": "B"
+      },
+      {
+        "number": 37,
+        "question": "Qual é uma dica para interpretar um texto de forma eficaz?",
+        "options": [
+          "A) Focar apenas nas palavras-chave",
+          "B) Ler com atenção e relacionar com conhecimento prévio",
+          "C) Ignorar o contexto histórico",
+          "D) Analisar somente as figuras de linguagem"
+        ],
+        "answer": "B"
+      },
+      {
+        "number": 38,
+        "question": "O que a compreensão crítica envolve ao avaliar a perspectiva do autor?",
+        "options": [
+          "A) Identificar o gênero textual",
+          "B) Questionar se a perspectiva é neutra ou tendenciosa",
+          "C) Analisar a estrutura das frases",
+          "D) Compreender as informações explícitas"
+        ],
+        "answer": "B"
+      },
+      {
+        "number": 39,
+        "question": "Qual é uma característica dos textos poéticos em relação à interpretação?",
+        "options": [
+          "A) Foco na clareza e objetividade",
+          "B) Uso de metáforas e simbolismos",
+          "C) Apresentação de dados e argumentos científicos",
+          "D) Estrutura narrativa com personagens"
+        ],
+        "answer": "B"
+      },
+      {
+        "number": 40,
+        "question": "Qual é a função de recursos coesivos em um texto?",
+        "options": [
+          "A) Apresentar dados e argumentos",
+          "B) Manter a conexão entre ideias e garantir coesão",
+          "C) Enriquecer a interpretação com figuras de linguagem",
+          "D) Identificar o gênero textual"
+        ],
+        "answer": "B"
+      },
+      {
+        "number": 41,
+        "question": "Qual é um exemplo de recurso estilístico que pode alterar o tom do texto?",
+        "options": [
+          "A) Enumeração",
+          "B) Ironia",
+          "C) Estrutura narrativa",
+          "D) Causa e consequência"
+        ],
+        "answer": "B"
+      },
+      {
+        "number": 42,
+        "question": "Qual é o papel da compreensão crítica ao analisar o público-alvo de um texto?",
+        "options": [
+          "A) Identificar a estrutura do texto",
+          "B) Avaliar como o texto é adaptado para o público-alvo",
+          "C) Compreender o contexto histórico",
+          "D) Analisar a consistência dos argumentos"
+        ],
+        "answer": "B"
+      },
+      {
+        "number": 43,
+        "question": "Qual é uma característica importante dos textos argumentativos?",
+        "options": [
+          "A) Uso extensivo de metáforas",
+          "B) Apresentação de argumentos e contra-argumentos",
+          "C) Estrutura narrativa com personagens",
+          "D) Foco em dados e fatos científicos"
+        ],
+        "answer": "B"
+      },
+      {
+        "number": 44,
+        "question": "Qual habilidade é necessária para interpretar referências intertextuais?",
+        "options": [
+          "A) Compreensão literal",
+          "B) Leitura crítica",
+          "C) Identificação de figuras de linguagem",
+          "D) Compreensão inferencial"
+        ],
+        "answer": "B"
+      },
+      {
+        "number": 45,
+        "question": "Como a leitura crítica pode influenciar sua opinião sobre um texto?",
+        "options": [
+          "A) Ao focar apenas na estrutura do texto",
+          "B) Ao questionar a objetividade e os viéses do autor",
+          "C) Ao identificar a consistência dos argumentos",
+          "D) Ao analisar apenas as informações explícitas"
+        ],
+        "answer": "B"
+      },
+      {
+        "number": 46,
+        "question": "Qual é a principal característica dos textos narrativos?",
+        "options": [
+          "A) Apresentação de dados e argumentos",
+          "B) Uso de figuras de linguagem e subjetividade",
+          "C) Estrutura com personagens e enredo",
+          "D) Foco em informações objetivas"
+        ],
+        "answer": "C"
+      },
+      {
+        "number": 47,
+        "question": "Qual é o propósito de analisar o contexto histórico de um texto?",
+        "options": [
+          "A) Identificar a estrutura textual",
+          "B) Compreender a motivação e intenção do autor",
+          "C) Analisar a clareza da linguagem",
+          "D) Avaliar a consistência dos argumentos"
+        ],
+        "answer": "B"
+      },
+      {
+        "number": 48,
+        "question": "Como a identificação de estruturas textuais pode ajudar na compreensão do texto?",
+        "options": [
+          "A) Melhorando a clareza do texto",
+          "B) Revelando a organização e a lógica das ideias",
+          "C) Enriquecendo a interpretação com metáforas",
+          "D) Avaliando o público-alvo"
+        ],
+        "answer": "B"
+      },
+      {
+        "number": 49,
+        "question": "Qual é um exemplo de figura de linguagem que pode adicionar profundidade a um texto?",
+        "options": [
+          "A) Enumerar eventos",
+          "B) Usar ironia",
+          "C) Identificar a estrutura do texto",
+          "D) Analisar o gênero textual"
+        ],
+        "answer": "B"
+      },
+      {
+        "number": 50,
+        "question": "Qual é o papel dos recursos coesivos na interpretação de um texto?",
+        "options": [
+          "A) Criar uma narrativa coerente",
+          "B) Manter a coesão e a conexão entre ideias",
+          "C) Identificar o contexto histórico",
+          "D) Analisar o gênero textual"
+        ],
+        "answer": "B"
+      },
+      {
+        "number": 51,
+        "question": "Qual é uma característica distintiva dos textos argumentativos?",
+        "options": [
+          "A) Uso extensivo de metáforas",
+          "B) Apresentação e defesa de argumentos",
+          "C) Estrutura com enredo e personagens",
+          "D) Foco em descrições detalhadas"
+        ],
+        "answer": "B"
+      },
+      {
+        "number": 52,
+        "question": "Qual elemento é importante para a interpretação de textos informativos?",
+        "options": [
+          "A) Identificação de figuras de linguagem",
+          "B) Compreensão literal das informações",
+          "C) Análise de viéses e intenções",
+          "D) Leitura crítica e reflexiva"
+        ],
+        "answer": "B"
+      },
+      {
+        "number": 53,
+        "question": "Qual é a função de identificar o propósito do autor ao interpretar um texto?",
+        "options": [
+          "A) Compreender o gênero textual",
+          "B) Analisar a motivação por trás das informações apresentadas",
+          "C) Avaliar a estrutura do texto",
+          "D) Identificar a coesão entre ideias"
+        ],
+        "answer": "B"
+      },
+      {
+        "number": 54,
+        "question": "Qual habilidade é necessária para interpretar um texto literário?",
+        "options": [
+          "A) Identificação de dados e fatos",
+          "B) Compreensão das intenções e do estilo do autor",
+          "C) Análise de argumentos e contra-argumentos",
+          "D) Identificação do público-alvo"
+        ],
+        "answer": "B"
+      },
+      {
+        "number": 55,
+        "question": "Qual é um exemplo de como a leitura crítica pode ser aplicada?",
+        "options": [
+          "A) Avaliar a clareza da linguagem",
+          "B) Questionar e refletir sobre a perspectiva do autor",
+          "C) Identificar figuras de linguagem",
+          "D) Compreender a estrutura textual"
+        ],
+        "answer": "B"
+      },
+      {
+        "number": 56,
+        "question": "Qual é uma característica dos textos poéticos em relação à estrutura?",
+        "options": [
+          "A) Estrutura narrativa com enredo",
+          "B) Uso de rimas e métrica",
+          "C) Foco em argumentos e evidências",
+          "D) Apresentação de dados e fatos"
+        ],
+        "answer": "B"
+      },
+      {
+        "number": 57,
+        "question": "Qual é o papel das figuras de linguagem na interpretação crítica?",
+        "options": [
+          "A) Identificar o público-alvo",
+          "B) Adicionar camadas de significado e profundidade",
+          "C) Analisar a estrutura do texto",
+          "D) Compreender as informações explícitas"
+        ],
+        "answer": "B"
+      },
+      {
+        "number": 58,
+        "question": "Qual habilidade é essencial para a interpretação inferencial?",
+        "options": [
+          "A) Identificação de fatos explícitos",
+          "B) Deduzir informações implícitas e entender o contexto",
+          "C) Avaliação da estrutura do texto",
+          "D) Análise da clareza da linguagem"
+        ],
+        "answer": "B"
+      },
+      {
+        "number": 59,
+        "question": "Qual é a função do contexto histórico na interpretação de um texto?",
+        "options": [
+          "A) Revelar a motivação e as intenções do autor",
+          "B) Identificar o gênero textual",
+          "C) Analisar a estrutura das frases",
+          "D) Avaliar a consistência dos argumentos"
+        ],
+        "answer": "A"
+      },
+      {
+        "number": 60,
+        "question": "Qual é uma prática recomendada para melhorar a interpretação de textos?",
+        "options": [
+          "A) Focar apenas nas figuras de linguagem",
+          "B) Ler com atenção e relacionar o texto com conhecimento prévio",
+          "C) Analisar apenas a estrutura do texto",
+          "D) Ignorar o contexto e a intenção do autor"
+        ],
+        "answer": "B"
+      }
+    ]
+  }
+  

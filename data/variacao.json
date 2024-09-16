@@ -1,0 +1,164 @@
+[
+    {
+      "question": "1. O que é variação linguística?",
+      "options": ["A) A mudança de uma língua ao longo do tempo", "B) A diversidade dentro de uma língua que ocorre em diferentes contextos", "C) A forma oficial de uma língua", "D) O uso de uma língua em textos acadêmicos"],
+      "answer": "B"
+    },
+    {
+      "question": "2. Qual dos exemplos abaixo caracteriza uma variação regional?",
+      "options": ["A) O uso de 'bug' e 'deploy' na área de tecnologia", "B) O uso de 'vossa mercê' que se tornou 'você'", "C) O uso de 'oxente' no nordeste e 'uai' no sudeste", "D) O uso de gírias pelos jovens"],
+      "answer": "C"
+    },
+    {
+      "question": "3. A variação social está relacionada a:",
+      "options": ["A) Diferenças geográficas", "B) Diferenças de idade", "C) Diferenças de classe social, escolaridade e ocupação", "D) Diferenças no gênero dos falantes"],
+      "answer": "C"
+    },
+    {
+      "question": "4. O que exemplifica uma variação histórica?",
+      "options": ["A) O uso de 'norma culta' em textos formais", "B) A palavra 'd'antes' que se transformou em 'antes'", "C) O uso de gírias em diferentes faixas etárias", "D) O uso de 'macaxeira' no nordeste e 'aipim' em outras regiões"],
+      "answer": "B"
+    },
+    {
+      "question": "5. Qual a principal característica da variação situacional?",
+      "options": ["A) É baseada na mudança da língua ao longo do tempo", "B) Refere-se às diferenças entre homens e mulheres", "C) Refere-se à adaptação da fala de acordo com a situação comunicativa", "D) Está relacionada ao vocabulário técnico de diferentes profissões"],
+      "answer": "C"
+    },
+    {
+      "question": "6. A variação etária pode ser observada quando:",
+      "options": ["A) Jovens utilizam gírias da moda, como 'top' ou 'lacrar'", "B) Pessoas de diferentes regiões usam palavras diferentes para os mesmos objetos", "C) Homens e mulheres têm diferentes maneiras de se expressar", "D) A norma popular é utilizada em contextos informais"],
+      "answer": "A"
+    },
+    {
+      "question": "7. O que caracteriza a variação de gênero?",
+      "options": ["A) Diferenças regionais na linguagem", "B) Diferenças entre a fala de homens e mulheres", "C) O uso de jargões profissionais", "D) A mudança da língua ao longo do tempo"],
+      "answer": "B"
+    },
+    {
+      "question": "8. Qual dos exemplos abaixo caracteriza uma variação profissional?",
+      "options": ["A) O uso de 'bug' e 'deploy' na tecnologia", "B) O uso de 'lacrar' entre os jovens", "C) O uso de 'macaxeira' no nordeste", "D) O uso de 'cringe' por gerações mais novas"],
+      "answer": "A"
+    },
+    {
+      "question": "9. O que é norma culta?",
+      "options": ["A) A linguagem utilizada em situações informais", "B) A forma de linguagem que segue rigorosamente as regras gramaticais", "C) A variação de linguagem usada pelos jovens", "D) A variação linguística que ocorre ao longo do tempo"],
+      "answer": "B"
+    },
+    {
+      "question": "10. A norma popular é caracterizada por:",
+      "options": ["A) O uso formal da língua", "B) A linguagem coloquial usada no cotidiano", "C) O vocabulário técnico de uma profissão", "D) A fala de diferentes regiões"],
+      "answer": "B"
+    },
+    {
+      "question": "11. Qual das opções a seguir é um exemplo de variação regional no Brasil?",
+      "options": ["A) O uso de 'bug' na área de tecnologia", "B) O uso de 'lacrar' pelos jovens", "C) O uso de 'oxente' no nordeste e 'uai' no sudeste", "D) O uso de 'vossa mercê' no passado"],
+      "answer": "C"
+    },
+    {
+      "question": "12. A variação linguística é importante para:",
+      "options": ["A) Garantir que todos falem da mesma maneira", "B) Refletir a diversidade cultural e dinâmica social de uma comunidade", "C) Assegurar o uso da norma culta em todos os contextos", "D) Diminuir as diferenças regionais"],
+      "answer": "B"
+    },
+    {
+      "question": "13. O que significa variação situacional?",
+      "options": ["A) As pessoas falam de maneira diferente de acordo com a situação", "B) A linguagem muda ao longo do tempo", "C) Homens e mulheres utilizam linguagens diferentes", "D) A linguagem é a mesma, independentemente do contexto"],
+      "answer": "A"
+    },
+    {
+      "question": "14. A norma culta é frequentemente utilizada em:",
+      "options": ["A) Conversas informais", "B) Textos acadêmicos e jurídicos", "C) Diálogos entre amigos", "D) Ambientes de trabalho informal"],
+      "answer": "B"
+    },
+    {
+      "question": "15. Qual a relação entre variação social e escolaridade?",
+      "options": ["A) Pessoas de diferentes regiões falam de maneiras distintas", "B) Pessoas com diferentes níveis de escolaridade podem se expressar de maneiras diversas", "C) A variação social não está relacionada à escolaridade", "D) A escolaridade não influencia a linguagem"],
+      "answer": "B"
+    },
+    {
+      "question": "16. A variação etária pode influenciar:",
+      "options": ["A) O vocabulário e expressões usadas por diferentes gerações", "B) As regras gramaticais", "C) O uso de normas cultas em contextos informais", "D) A pronúncia regional"],
+      "answer": "A"
+    },
+    {
+      "question": "17. Qual das opções abaixo é um exemplo de variação social?",
+      "options": ["A) Uso de 'uai' no sudeste", "B) Uso de linguagem formal por pessoas com alto nível educacional", "C) Uso de 'oxente' no nordeste", "D) Uso de 'vossa mercê' no passado"],
+      "answer": "B"
+    },
+    {
+      "question": "18. O que caracteriza a variação regional?",
+      "options": ["A) Diferenças linguísticas de acordo com a situação", "B) Diferenças no modo de falar de acordo com a região geográfica", "C) Diferenças entre gerações", "D) Diferenças na linguagem técnica de uma profissão"],
+      "answer": "B"
+    },
+    {
+      "question": "19. O que é a variação histórica?",
+      "options": ["A) A linguagem adaptada a diferentes contextos sociais", "B) A mudança da língua ao longo do tempo", "C) O uso de gírias em diferentes faixas etárias", "D) A linguagem usada em profissões específicas"],
+      "answer": "B"
+    },
+    {
+      "question": "20. A variação de gênero pode ser observada em:",
+      "options": ["A) Diferentes formas de comunicação entre homens e mulheres", "B) Diferenças regionais", "C) Mudanças na língua ao longo do tempo", "D) Uso de gírias por diferentes faixas etárias"],
+      "answer": "A"
+    },
+    {
+      "question": "21. A norma popular é frequentemente utilizada em:",
+      "options": ["A) Situações formais", "B) Textos acadêmicos", "C) Conversas informais do dia a dia", "D) Manuais técnicos"],
+      "answer": "C"
+    },
+    {
+      "question": "22. O que caracteriza a variação profissional?",
+      "options": ["A) Uso de linguagem técnica específica de cada profissão", "B) Uso de gírias entre jovens", "C) Mudança de linguagem ao longo do tempo", "D) Diferenças regionais na linguagem"],
+      "answer": "A"
+    },
+    {
+      "question": "23. O termo 'gíria' se refere a:",
+      "options": ["A) Palavras técnicas de uma profissão", "B) Expressões informais usadas principalmente por jovens", "C) Diferenças regionais de vocabulário", "D) Mudanças linguísticas ao longo do tempo"],
+      "answer": "B"
+    },
+    {
+      "question": "24. O uso de 'vossa mercê' no passado e 'você' no presente é um exemplo de:",
+      "options": ["A) Variação situacional", "B) Variação de gênero", "C) V a norma culta?",
+      "options": ["A) Linguagem informal usada no cotidiano", "B) Linguagem técnica de uma profissão", "C) Linguagem que segue rigorosamente as regras gramaticais", "D) Linguagem que varia de acordo com a região"],
+      "answer": "C"
+    },
+    {
+      "question": "53. O uso de termos técnicos específicos para cada profissão é uma forma de:",
+      "options": ["A) Variação situacional", "B) Variação profissional", "C) Variação histórica", "D) Variação regional"],
+      "answer": "B"
+    },
+    {
+      "question": "54. A expressão 'Oi, tudo bem?' é um exemplo de linguagem:",
+      "options": ["A) Formal", "B) Técnica", "C) Coloquial", "D) Histórica"],
+      "answer": "C"
+    },
+    {
+      "question": "55. A variação etária é marcada pelo uso de:",
+      "options": ["A) Termos técnicos de uma profissão", "B) Gírias e expressões específicas de uma geração", "C) Linguagem formal em ambientes profissionais", "D) Vocabulário diferente em diferentes regiões"],
+      "answer": "B"
+    },
+    {
+      "question": "56. O vocabulário técnico da medicina inclui palavras como:",
+      "options": ["A) Bug e deploy", "B) API e código", "C) Anamnese e fármaco", "D) Cringe e top"],
+      "answer": "C"
+    },
+    {
+      "question": "57. A diferença entre 'vossa mercê' e 'você' ilustra uma mudança na língua ao longo do tempo conhecida como:",
+      "options": ["A) Variação social", "B) Variação histórica", "C) Variação regional", "D) Variação de gênero"],
+      "answer": "B"
+    },
+    {
+      "question": "58. O uso de 'aipim' em vez de 'macaxeira' demonstra:",
+      "options": ["A) Variação profissional", "B) Variação situacional", "C) Variação regional", "D) Variação social"],
+      "answer": "C"
+    },
+    {
+      "question": "59. A variação de gênero é observada em:",
+      "options": ["A) Diferenças na escolha de palavras entre homens e mulheres", "B) Diferenças na fala entre diferentes faixas etárias", "C) Diferenças regionais na língua", "D) Diferenças na formalidade da linguagem"],
+      "answer": "A"
+    },
+    {
+      "question": "60. O que caracteriza a norma popular?",
+      "options": ["A) Linguagem técnica usada em profissões", "B) Linguagem coloquial e espontânea do cotidiano", "C) Linguagem formal e normativa", "D) Linguagem que muda com o tempo"],
+      "answer": "B"
+    }
+  ]
+  

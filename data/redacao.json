@@ -1,0 +1,605 @@
+{
+    "questions": [
+      {
+        "question": "1. Qual é o tipo de redação mais comum em exames e vestibulares?",
+        "options": [
+          "A) Narração",
+          "B) Descrição",
+          "C) Dissertação",
+          "D) Carta"
+        ],
+        "answer": "C"
+      },
+      {
+        "question": "2. O que caracteriza uma redação de narração?",
+        "options": [
+          "A) Contar uma história com personagens, tempo e enredo",
+          "B) Descrever um objeto ou lugar de forma detalhada",
+          "C) Apresentar uma opinião sobre um tema",
+          "D) Escrever uma correspondência formal ou informal"
+        ],
+        "answer": "A"
+      },
+      {
+        "question": "3. Qual é a principal função da introdução em uma redação dissertativa-argumentativa?",
+        "options": [
+          "A) Apresentar os argumentos",
+          "B) Apresentar o tema e a tese",
+          "C) Fazer uma proposta de intervenção",
+          "D) Descrever a conclusão"
+        ],
+        "answer": "B"
+      },
+      {
+        "question": "4. O que deve conter no desenvolvimento de uma redação dissertativa-argumentativa?",
+        "options": [
+          "A) A proposta de intervenção",
+          "B) A tese e a conclusão",
+          "C) Argumentos e exemplos que sustentam a tese",
+          "D) A introdução e os conectivos"
+        ],
+        "answer": "C"
+      },
+      {
+        "question": "5. Qual é a função da conclusão em uma redação dissertativa-argumentativa?",
+        "options": [
+          "A) Apresentar a tese",
+          "B) Fazer uma proposta de intervenção e sintetizar os argumentos",
+          "C) Desenvolver os argumentos",
+          "D) Introduzir o tema"
+        ],
+        "answer": "B"
+      },
+      {
+        "question": "6. O que é coesão em uma redação?",
+        "options": [
+          "A) A lógica interna do texto",
+          "B) A ligação entre frases e parágrafos",
+          "C) A clareza do texto",
+          "D) A revisão e correção do texto"
+        ],
+        "answer": "B"
+      },
+      {
+        "question": "7. O que é coerência em uma redação?",
+        "options": [
+          "A) A clareza do texto",
+          "B) A ligação entre frases e parágrafos",
+          "C) A lógica interna do texto",
+          "D) A revisão e correção do texto"
+        ],
+        "answer": "C"
+      },
+      {
+        "question": "8. Qual é a característica principal da redação de descrição?",
+        "options": [
+          "A) Contar uma história",
+          "B) Apresentar uma opinião",
+          "C) Descrever detalhadamente um objeto ou situação",
+          "D) Escrever uma correspondência"
+        ],
+        "answer": "C"
+      },
+      {
+        "question": "9. Em uma redação formal, o que é importante quanto à norma padrão?",
+        "options": [
+          "A) Usar gírias e expressões coloquiais",
+          "B) Evitar erros gramaticais e usar vocabulário formal",
+          "C) Utilizar uma linguagem mais acessível",
+          "D) Evitar o uso de conectivos"
+        ],
+        "answer": "B"
+      },
+      {
+        "question": "10. O que deve ser incluído em uma proposta de intervenção no ENEM?",
+        "options": [
+          "A) Apenas uma ação",
+          "B) Apenas o agente",
+          "C) Ação, agente, meio, finalidade e detalhamento",
+          "D) Apenas a finalidade"
+        ],
+        "answer": "C"
+      },
+      {
+        "question": "11. Qual é a primeira etapa do processo de escrita?",
+        "options": [
+          "A) Revisão",
+          "B) Planejamento",
+          "C) Rascunho",
+          "D) Leitura e Interpretação do Tema"
+        ],
+        "answer": "D"
+      },
+      {
+        "question": "12. O que é a etapa de rascunho no processo de escrita?",
+        "options": [
+          "A) Revisar e corrigir erros",
+          "B) Organizar as ideias",
+          "C) Escrever a primeira versão do texto",
+          "D) Fazer uma leitura crítica do tema"
+        ],
+        "answer": "C"
+      },
+      {
+        "question": "13. Por que a prática regular é importante para melhorar a escrita?",
+        "options": [
+          "A) Para evitar a revisão do texto",
+          "B) Para aperfeiçoar a capacidade de argumentação e correção de erros",
+          "C) Para criar novos gêneros textuais",
+          "D) Para escrever sem planejamento"
+        ],
+        "answer": "B"
+      },
+      {
+        "question": "14. O que é um artigo de opinião?",
+        "options": [
+          "A) Um texto que narra uma história",
+          "B) Um texto que descreve um objeto ou lugar",
+          "C) Um texto que apresenta uma opinião sobre um tema",
+          "D) Uma correspondência formal ou informal"
+        ],
+        "answer": "C"
+      },
+      {
+        "question": "15. Qual é a principal característica de uma crônica?",
+        "options": [
+          "A) Ser um texto extenso e detalhado",
+          "B) Narração de eventos cotidianos com linguagem leve",
+          "C) Apresentar uma opinião formal",
+          "D) Descrever um objeto com riqueza de detalhes"
+        ],
+        "answer": "B"
+      },
+      {
+        "question": "16. O que deve ser feito durante a revisão de um texto?",
+        "options": [
+          "A) Escrever uma nova introdução",
+          "B) Corrigir erros gramaticais e melhorar a estrutura",
+          "C) Adicionar novos argumentos",
+          "D) Criar uma nova proposta de intervenção"
+        ],
+        "answer": "B"
+      },
+      {
+        "question": "17. Qual é a importância do planejamento na escrita?",
+        "options": [
+          "A) Ajudar a revisar o texto",
+          "B) Organizar as ideias e estruturar o texto",
+          "C) Escrever o rascunho",
+          "D) Corrigir erros gramaticais"
+        ],
+        "answer": "B"
+      },
+      {
+        "question": "18. Qual é a função de um conectivo em um texto?",
+        "options": [
+          "A) Adicionar exemplos",
+          "B) Melhorar a clareza do texto",
+          "C) Conectar frases e parágrafos",
+          "D) Descrever o tema"
+        ],
+        "answer": "C"
+      },
+      {
+        "question": "19. O que deve ser evitado para garantir a clareza e objetividade do texto?",
+        "options": [
+          "A) Usar conectivos",
+          "B) Fazer frases muito longas ou ambíguas",
+          "C) Utilizar uma norma padrão",
+          "D) Organizar as ideias logicamente"
+        ],
+        "answer": "B"
+      },
+      {
+        "question": "20. Qual é o foco da redação dissertativa-argumentativa?",
+        "options": [
+          "A) Contar uma história",
+          "B) Descrever um lugar",
+          "C) Expor e defender um ponto de vista",
+          "D) Escrever uma carta"
+        ],
+        "answer": "C"
+      },
+      {
+        "question": "21. Em uma redação dissertativa-argumentativa, o que deve ser apresentado na conclusão?",
+        "options": [
+          "A) Apenas a tese",
+          "B) Ação e agente",
+          "C) Tese, síntese dos argumentos e proposta de intervenção",
+          "D) Introdução e desenvolvimento"
+        ],
+        "answer": "C"
+      },
+      {
+        "question": "22. O que é a norma culta da Língua Portuguesa?",
+        "options": [
+          "A) Uso de gírias e expressões coloquiais",
+          "B) Uso de um vocabulário formal e técnico",
+          "C) Uso de linguagem acessível",
+          "D) Uso de erros gramaticais intencionais"
+        ],
+        "answer": "B"
+      },
+      {
+        "question": "23. Qual é a importância da leitura para a escrita?",
+        "options": [
+          "A) Ampliar o vocabulário e melhorar a capacidade de argumentação",
+          "B) Escrever textos mais longos",
+          "C) Evitar a prática de escrita",
+          "D) Criar novos tipos de redação"
+        ],
+        "answer": "A"
+      },
+      {
+        "question": "24. O que caracteriza a redação de carta?",
+        "options": [
+          "A) Um texto opinativo",
+          "B) Um texto descritivo",
+          "C) Um texto em formato de correspondência, formal ou informal",
+          "D) Um texto narrativo"
+        ],
+        "answer": "C"
+      },
+      {
+        "question": "25. Em que tipo de redação a proposta de intervenção é um elemento fundamental?",
+        "options": [
+          "A) Crônica",
+          "B) Artigo de Opinião",
+          "C) Dissertação",
+          "D) Carta"
+        ],
+        "answer": "C"
+      },
+      {
+        "question": "26. Qual é a função do desenvolvimento em uma redação dissertativa-argumentativa?",
+        "options": [
+          "A) Apresentar o tema",
+          "B) Expor e argumentar a tese",
+          "C) Fazer uma proposta de intervenção",
+          "D) Encerrar o texto"
+        ],
+        "answer": "B"
+      },
+      {
+        "question": "27. O que é um exemplo relevante em uma redação argumentativa?",
+        "options": [
+          "A) Uma história fictícia",
+          "B) Um fato aleatório",
+          "C) Uma evidência que sustenta um argumento",
+          "D) Uma citação sem relação com o tema"
+        ],
+        "answer": "C"
+      },
+      {
+        "question": "28. Qual é o principal objetivo da clareza em um texto?",
+        "options": [
+          "A) Escrever frases longas",
+          "B) Facilitar a compreensão da mensagem",
+          "C) Usar vocabulário técnico",
+          "D) Elaborar uma proposta de intervenção"
+        ],
+        "answer": "B"
+      },
+      {
+        "question": "29. Qual é um exemplo de conectivo que pode ser usado para adicionar informações?",
+        "options": [
+          "A) Portanto",
+          "B) Além disso",
+          "C) No entanto",
+          "D) Contudo"
+        ],
+        "answer": "B"
+      },
+      {
+        "question": "30. O que deve ser incluído na proposta de intervenção em uma redação do ENEM?",
+        "options": [
+          "A) Apenas o agente",
+          "B) Apenas a finalidade",
+          "C) Ação, agente, meio, finalidade e detalhamento",
+          "D) Apenas a ação"
+        ],
+        "answer": "C"
+      },
+      {
+        "question": "31. Qual é a etapa de planejamento na escrita de um texto?",
+        "options": [
+          "A) Escrever o rascunho",
+          "B) Revisar erros gramaticais",
+          "C) Organizar e estruturar as ideias",
+          "D) Adicionar exemplos e evidências"
+        ],
+        "answer": "C"
+      },
+      {
+        "question": "32. O que é essencial para a argumentação em uma redação?",
+        "options": [
+          "A) Usar gírias e expressões coloquiais",
+          "B) Ter clareza e usar exemplos relevantes",
+          "C) Evitar revisão do texto",
+          "D) Descrever o tema detalhadamente"
+        ],
+        "answer": "B"
+      },
+      {
+        "question": "33. Qual é a função de uma conclusão em um texto descritivo?",
+        "options": [
+          "A) Apresentar o tema",
+          "B) Fazer uma proposta de intervenção",
+          "C) Resumir a descrição e encerrar o texto",
+          "D) Desenvolver os argumentos"
+        ],
+        "answer": "C"
+      },
+      {
+        "question": "34. O que é importante ao escrever uma crônica?",
+        "options": [
+          "A) Usar uma linguagem técnica",
+          "B) Narrar eventos cotidianos com uma linguagem leve",
+          "C) Apresentar uma opinião formal",
+          "D) Descrever um objeto com detalhes"
+        ],
+        "answer": "B"
+      },
+      {
+        "question": "35. O que caracteriza uma redação de dissertação?",
+        "options": [
+          "A) Apresentar uma história fictícia",
+          "B) Descrever um lugar ou pessoa",
+          "C) Expor e defender um ponto de vista",
+          "D) Escrever uma correspondência"
+        ],
+        "answer": "C"
+      },
+      {
+        "question": "36. O que deve ser evitado para garantir a coesão em um texto?",
+        "options": [
+          "A) Usar conectivos adequados",
+          "B) Escrever frases e parágrafos desconectados",
+          "C) Fazer uma revisão detalhada",
+          "D) Organizar as ideias logicamente"
+        ],
+        "answer": "B"
+      },
+      {
+        "question": "37. O que é necessário para a revisão de um texto?",
+        "options": [
+          "A) Apenas corrigir erros gramaticais",
+          "B) Melhorar a estrutura e clareza do texto",
+          "C) Adicionar novos argumentos",
+          "D) Escrever uma nova introdução"
+        ],
+        "answer": "B"
+      },
+      {
+        "question": "38. Qual é a característica principal de um texto descritivo?",
+        "options": [
+          "A) Apresentar uma opinião",
+          "B) Contar uma história",
+          "C) Descrever detalhadamente um objeto, lugar ou situação",
+          "D) Escrever uma correspondência"
+        ],
+        "answer": "C"
+      },
+      {
+        "question": "39. O que deve ser incluído no desenvolvimento de um artigo de opinião?",
+        "options": [
+          "A) Apenas a introdução",
+          "B) Ação e agente",
+          "C) Argumentos e exemplos que sustentam a opinião",
+          "D) Apenas a conclusão"
+        ],
+        "answer": "C"
+      },
+      {
+        "question": "40. Qual é a importância da prática regular na escrita?",
+        "options": [
+          "A) Evitar revisão",
+          "B) Melhorar a qualidade da escrita e argumentação",
+          "C) Criar novos tipos de redação",
+          "D) Escrever sem planejamento"
+        ],
+        "answer": "B"
+      },
+      {
+        "question": "41. Em uma redação dissertativa-argumentativa, como deve ser estruturado o desenvolvimento?",
+        "options": [
+          "A) Com uma introdução e conclusão",
+          "B) Com uma descrição detalhada",
+          "C) Com argumentos e exemplos",
+          "D) Com uma proposta de intervenção"
+        ],
+        "answer": "C"
+      },
+      {
+        "question": "42. O que é um exemplo de coesão textual?",
+        "options": [
+          "A) Usar conectivos como 'portanto' e 'além disso'",
+          "B) Apresentar uma tese",
+          "C) Descrever um objeto com detalhes",
+          "D) Contar uma história"
+        ],
+        "answer": "A"
+      },
+      {
+        "question": "43. Qual é a função de um texto descritivo?",
+        "options": [
+          "A) Apresentar uma opinião",
+          "B) Descrever um objeto, lugar ou situação",
+          "C) Contar uma história",
+          "D) Escrever uma correspondência"
+        ],
+        "answer": "B"
+      },
+      {
+        "question": "44. O que é importante para a clareza de um texto?",
+        "options": [
+          "A) Usar uma norma padrão",
+          "B) Evitar frases longas ou ambíguas",
+          "C) Usar vocabulário técnico",
+          "D) Adicionar exemplos e evidências"
+        ],
+        "answer": "B"
+      },
+      {
+        "question": "45. O que caracteriza um artigo de opinião?",
+        "options": [
+          "A) Narrar eventos cotidianos",
+          "B) Descrever um lugar ou objeto",
+          "C) Apresentar uma opinião sobre um tema",
+          "D) Escrever uma correspondência"
+        ],
+        "answer": "C"
+      },
+      {
+        "question": "46. O que deve ser evitado no uso da norma culta?",
+        "options": [
+          "A) Usar vocabulário técnico",
+          "B) Utilizar erros gramaticais",
+          "C) Usar uma linguagem formal",
+          "D) Evitar gírias e expressões coloquiais"
+        ],
+        "answer": "B"
+      },
+      {
+        "question": "47. O que caracteriza uma redação dissertativa-argumentativa?",
+        "options": [
+          "A) A descrição detalhada",
+          "B) A narração de uma história",
+          "C) A exposição e defesa de um ponto de vista",
+          "D) A escrita de uma correspondência"
+        ],
+        "answer": "C"
+      },
+      {
+        "question": "48. O que deve ser feito durante o planejamento de uma redação?",
+        "options": [
+          "A) Escrever o rascunho",
+          "B) Corrigir erros gramaticais",
+          "C) Organizar e estruturar as ideias",
+          "D) Adicionar exemplos"
+        ],
+        "answer": "C"
+      },
+      {
+        "question": "49. Qual é o papel do desenvolvimento em uma redação dissertativa-argumentativa?",
+        "options": [
+          "A) Apresentar o tema",
+          "B) Expor e argumentar a tese",
+          "C) Fazer uma proposta de intervenção",
+          "D) Encerrar o texto"
+        ],
+        "answer": "B"
+      },
+      {
+        "question": "50. O que é a proposta de intervenção no ENEM?",
+        "options": [
+          "A) Uma parte do desenvolvimento",
+          "B) A conclusão do texto",
+          "C) Uma solução para o problema discutido",
+          "D) A introdução do texto"
+        ],
+        "answer": "C"
+      },
+      {
+        "question": "51. O que deve ser incluído na conclusão de uma redação dissertativa-argumentativa?",
+        "options": [
+          "A) Uma descrição detalhada",
+          "B) Ação e agente",
+          "C) Resumo da tese e síntese dos argumentos",
+          "D) Uma narrativa fictícia"
+        ],
+        "answer": "C"
+      },
+      {
+        "question": "52. Qual é a importância da leitura para a escrita?",
+        "options": [
+          "A) Evitar revisão",
+          "B) Ampliar o vocabulário e melhorar a argumentação",
+          "C) Criar novos tipos de redação",
+          "D) Escrever sem planejamento"
+        ],
+        "answer": "B"
+      },
+      {
+        "question": "53. Qual é a principal característica de uma narração?",
+        "options": [
+          "A) Descrever um objeto",
+          "B) Apresentar uma opinião",
+          "C) Contar uma história com personagens e enredo",
+          "D) Escrever uma correspondência"
+        ],
+        "answer": "C"
+      },
+      {
+        "question": "54. Qual é a função de uma proposta de intervenção?",
+        "options": [
+          "A) Adicionar exemplos",
+          "B) Encerrar o texto",
+          "C) Propor uma solução para o problema discutido",
+          "D) Escrever uma nova introdução"
+        ],
+        "answer": "C"
+      },
+      {
+        "question": "55. O que deve ser evitado para garantir a coerência em um texto?",
+        "options": [
+          "A) Apresentar ideias compatíveis entre si",
+          "B) Ter uma sequência lógica",
+          "C) Ter ideias desconectadas e falta de lógica",
+          "D) Usar conectivos adequados"
+        ],
+        "answer": "C"
+      },
+      {
+        "question": "56. Qual é a importância da revisão na escrita?",
+        "options": [
+          "A) Apenas corrigir erros gramaticais",
+          "B) Melhorar a estrutura e a clareza do texto",
+          "C) Adicionar novos argumentos",
+          "D) Escrever um novo desenvolvimento"
+        ],
+        "answer": "B"
+      },
+      {
+        "question": "57. O que caracteriza uma carta formal?",
+        "options": [
+          "A) Linguagem coloquial",
+          "B) Estrutura de uma correspondência com vocabulário formal",
+          "C) Descrição detalhada de um objeto",
+          "D) Narração de uma história fictícia"
+        ],
+        "answer": "B"
+      },
+      {
+        "question": "58. Qual é a característica principal de um texto argumentativo?",
+        "options": [
+          "A) Contar uma história",
+          "B) Descrever um lugar ou pessoa",
+          "C) Expor e defender uma tese com argumentos",
+          "D) Escrever uma correspondência"
+        ],
+        "answer": "C"
+      },
+      {
+        "question": "59. O que deve ser feito para garantir a clareza em um texto?",
+        "options": [
+          "A) Usar frases longas",
+          "B) Evitar frases ambíguas e manter a simplicidade",
+          "C) Usar um vocabulário técnico",
+          "D) Adicionar exemplos irrelevantes"
+        ],
+        "answer": "B"
+      },
+      {
+        "question": "60. O que caracteriza a narração em um texto?",
+        "options": [
+          "A) Descrever um objeto",
+          "B) Apresentar uma opinião",
+          "C) Contar uma história com personagens e enredo",
+          "D) Escrever uma correspondência"
+        ],
+        "answer": "C"
+      }
+    ]
+  }
+  

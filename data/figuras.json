@@ -1,0 +1,665 @@
+{
+    "questions": [
+      {
+        "number": 1,
+        "question": "O que caracteriza a figura de linguagem conhecida como aliteração?",
+        "options": [
+          "A) Repetição de sons vocálicos",
+          "B) Repetição de sons consonantais",
+          "C) Palavra que imita sons naturais",
+          "D) Comparação implícita"
+        ],
+        "answer": "B"
+      },
+      {
+        "number": 2,
+        "question": "Qual é um exemplo de aliteração?",
+        "options": [
+          "A) 'O tic-tac do relógio me incomodava.'",
+          "B) 'A vida é um mar de rosas.'",
+          "C) 'O rato roeu a roupa do rei de Roma.'",
+          "D) 'Ele é forte como um touro.'"
+        ],
+        "answer": "C"
+      },
+      {
+        "number": 3,
+        "question": "O que é assíndeto?",
+        "options": [
+          "A) Omissão de um termo que já foi mencionado",
+          "B) Repetição exagerada de conectivos",
+          "C) Omissão de conjunções entre termos coordenados",
+          "D) Repetição de palavras no início de frases sucessivas"
+        ],
+        "answer": "C"
+      },
+      {
+        "number": 4,
+        "question": "Qual figura de linguagem é exemplificada pela frase 'O tic-tac do relógio me incomodava.'?",
+        "options": [
+          "A) Onomatopeia",
+          "B) Aliteração",
+          "C) Metáfora",
+          "D) Sinestesia"
+        ],
+        "answer": "A"
+      },
+      {
+        "number": 5,
+        "question": "Qual é um exemplo de sinestesia?",
+        "options": [
+          "A) 'Ele é forte como um touro.'",
+          "B) 'Uma voz doce e quente me acalmou.'",
+          "C) 'O silêncio ensurdecedor.'",
+          "D) 'O vento sussurrava entre as árvores.'"
+        ],
+        "answer": "B"
+      },
+      {
+        "number": 6,
+        "question": "Qual é a função da metáfora?",
+        "options": [
+          "A) Comparar explicitamente dois elementos",
+          "B) Substituir um termo por outro com relação de proximidade",
+          "C) Criar uma comparação implícita entre dois elementos",
+          "D) Usar um termo fora do seu sentido comum"
+        ],
+        "answer": "C"
+      },
+      {
+        "number": 7,
+        "question": "Qual figura de linguagem está presente em 'A vida é um mar de rosas.'?",
+        "options": [
+          "A) Comparação",
+          "B) Metáfora",
+          "C) Metonímia",
+          "D) Catacrese"
+        ],
+        "answer": "B"
+      },
+      {
+        "number": 8,
+        "question": "Qual é um exemplo de metáfora?",
+        "options": [
+          "A) 'O pé da mesa quebrou.'",
+          "B) 'A minha alma tá armada e apontada para a cara do sossego.'",
+          "C) 'O dia estava claro, mas sua alma escura.'",
+          "D) 'A vida é um mar de rosas.'"
+        ],
+        "answer": "D"
+      },
+      {
+        "number": 9,
+        "question": "O que caracteriza a figura de linguagem conhecida como comparação?",
+        "options": [
+          "A) Substituição de um termo por outro",
+          "B) Uso de metáforas",
+          "C) Aproximação explícita entre dois elementos usando conectivos",
+          "D) Mistura de sensações relacionadas a diferentes sentidos"
+        ],
+        "answer": "C"
+      },
+      {
+        "number": 10,
+        "question": "Qual figura de linguagem está presente em 'Ele é forte como um touro.'?",
+        "options": [
+          "A) Metáfora",
+          "B) Comparação",
+          "C) Metonímia",
+          "D) Aliteração"
+        ],
+        "answer": "B"
+      },
+      {
+        "number": 11,
+        "question": "Qual é um exemplo de catacrese?",
+        "options": [
+          "A) 'O silêncio ensurdecedor.'",
+          "B) 'O pé da mesa quebrou.'",
+          "C) 'A vida é um mar de rosas.'",
+          "D) 'Uma voz doce e quente me acalmou.'"
+        ],
+        "answer": "B"
+      },
+      {
+        "number": 12,
+        "question": "Qual figura de linguagem está exemplificada pela frase 'Li Machado de Assis.'?",
+        "options": [
+          "A) Metáfora",
+          "B) Metonímia",
+          "C) Comparação",
+          "D) Sinestesia"
+        ],
+        "answer": "B"
+      },
+      {
+        "number": 13,
+        "question": "Qual é a função da ironia na comunicação?",
+        "options": [
+          "A) Afirmar o oposto do que se quer dizer com tom sarcástico",
+          "B) Exagerar uma ideia para expressar enfaticamente",
+          "C) Substituir um termo por outro",
+          "D) Repetir sons consonantais"
+        ],
+        "answer": "A"
+      },
+      {
+        "number": 14,
+        "question": "Qual figura de linguagem é exemplificada pela frase 'Que pessoa educada, nem se despediu!'?",
+        "options": [
+          "A) Ironia",
+          "B) Eufemismo",
+          "C) Hipérbole",
+          "D) Antítese"
+        ],
+        "answer": "A"
+      },
+      {
+        "number": 15,
+        "question": "Qual figura de linguagem é utilizada para suavizar uma ideia desagradável?",
+        "options": [
+          "A) Hipérbole",
+          "B) Ironia",
+          "C) Eufemismo",
+          "D) Antítese"
+        ],
+        "answer": "C"
+      },
+      {
+        "number": 16,
+        "question": "Qual é um exemplo de eufemismo?",
+        "options": [
+          "A) 'Estou morrendo de fome.'",
+          "B) 'O silêncio ensurdecedor.'",
+          "C) 'Ele foi para um lugar melhor.'",
+          "D) 'O rato roeu a roupa do rei de Roma.'"
+        ],
+        "answer": "C"
+      },
+      {
+        "number": 17,
+        "question": "Qual figura de linguagem usa o exagero intencionalmente para expressar uma ideia?",
+        "options": [
+          "A) Hipérbole",
+          "B) Ironia",
+          "C) Eufemismo",
+          "D) Comparação"
+        ],
+        "answer": "A"
+      },
+      {
+        "number": 18,
+        "question": "Qual figura de linguagem está presente em 'Estou morrendo de fome.'?",
+        "options": [
+          "A) Eufemismo",
+          "B) Hipérbole",
+          "C) Metáfora",
+          "D) Metonímia"
+        ],
+        "answer": "B"
+      },
+      {
+        "number": 19,
+        "question": "O que caracteriza a figura de linguagem conhecida como prosopopeia?",
+        "options": [
+          "A) Atribuição de características humanas a seres inanimados",
+          "B) Substituição de um termo por outro",
+          "C) Mistura de sensações de diferentes sentidos",
+          "D) Repetição de sons vocálicos"
+        ],
+        "answer": "A"
+      },
+      {
+        "number": 20,
+        "question": "Qual é um exemplo de prosopopeia?",
+        "options": [
+          "A) 'O silêncio ensurdecedor.'",
+          "B) 'O vento sussurrava entre as árvores.'",
+          "C) 'Ele é forte como um touro.'",
+          "D) 'A vida é um mar de rosas.'"
+        ],
+        "answer": "B"
+      },
+      {
+        "number": 21,
+        "question": "Qual figura de linguagem é exemplificada pela frase 'Ele correu, voou, desapareceu.'?",
+        "options": [
+          "A) Ironia",
+          "B) Prosopopeia",
+          "C) Gradação",
+          "D) Elipse"
+        ],
+        "answer": "C"
+      },
+      {
+        "number": 22,
+        "question": "Qual é a função da gradação em um texto?",
+        "options": [
+          "A) Repetir palavras no início de frases",
+          "B) Criar uma progressão de ideias",
+          "C) Omitir termos",
+          "D) Usar exagero para efeito dramático"
+        ],
+        "answer": "B"
+      },
+      {
+        "number": 23,
+        "question": "O que caracteriza a figura de linguagem conhecida como elipse?",
+        "options": [
+          "A) Repetição de palavras",
+          "B) Omissão de um termo facilmente identificável",
+          "C) Inversão da ordem das palavras",
+          "D) Repetição exagerada de conectivos"
+        ],
+        "answer": "B"
+      },
+      {
+        "number": 24,
+        "question": "Qual é um exemplo de elipse?",
+        "options": [
+          "A) 'Ela gosta de cinema; ele, de teatro.'",
+          "B) 'Ouviram do Ipiranga as margens plácidas.'",
+          "C) 'Na sala, apenas dois alunos.'",
+          "D) 'Tudo cura, tudo salva, tudo consola.'"
+        ],
+        "answer": "C"
+      },
+      {
+        "number": 25,
+        "question": "Qual figura de linguagem está exemplificada pela frase 'Vim, vi, venci.'?",
+        "options": [
+          "A) Assíndeto",
+          "B) Polissíndeto",
+          "C) Anáfora",
+          "D) Zeugma"
+        ],
+        "answer": "A"
+      },
+      {
+        "number": 26,
+        "question": "O que caracteriza a figura de linguagem conhecida como zeugma?",
+        "options": [
+          "A) Repetição de palavras no início de frases",
+          "B) Omissão de um termo já mencionado anteriormente",
+          "C) Omissão de um termo facilmente identificável",
+          "D) Inversão da ordem das palavras"
+        ],
+        "answer": "B"
+      },
+      {
+        "number": 27,
+        "question": "Qual é um exemplo de zeugma?",
+        "options": [
+          "A) 'Na sala, apenas dois alunos.'",
+          "B) 'Ela gosta de cinema; ele, de teatro.'",
+          "C) 'O vento sussurrava entre as árvores.'",
+          "D) 'O silêncio ensurdecedor.'"
+        ],
+        "answer": "B"
+      },
+      {
+        "number": 28,
+        "question": "Qual é a função da anáfora na construção textual?",
+        "options": [
+          "A) Repetir palavras no início de frases ou versos",
+          "B) Substituir um termo por outro",
+          "C) Criar uma comparação implícita",
+          "D) Omitir termos repetitivos"
+        ],
+        "answer": "A"
+      },
+      {
+        "number": 29,
+        "question": "Qual figura de linguagem está exemplificada pela frase 'Tudo cura, tudo salva, tudo consola.'?",
+        "options": [
+          "A) Anáfora",
+          "B) Hipérbato",
+          "C) Pleonasmo",
+          "D) Assíndeto"
+        ],
+        "answer": "A"
+      },
+      {
+        "number": 30,
+        "question": "Qual é a função do hipérbato na construção de uma frase?",
+        "options": [
+          "A) Repetir palavras",
+          "B) Omitir termos",
+          "C) Inverter a ordem natural das palavras",
+          "D) Substituir termos"
+        ],
+        "answer": "C"
+      },
+      {
+        "number": 31,
+        "question": "Qual é um exemplo de hipérbato?",
+        "options": [
+          "A) 'O silêncio ensurdecedor.'",
+          "B) 'Ouviram do Ipiranga as margens plácidas.'",
+          "C) 'Tudo cura, tudo salva, tudo consola.'",
+          "D) 'Vim, vi, venci.'"
+        ],
+        "answer": "B"
+      },
+      {
+        "number": 32,
+        "question": "O que caracteriza a figura de linguagem conhecida como polissíndeto?",
+        "options": [
+          "A) Repetição de palavras no início de frases",
+          "B) Omissão de termos",
+          "C) Repetição exagerada de conectivos",
+          "D) Inversão da ordem das palavras"
+        ],
+        "answer": "C"
+      },
+      {
+        "number": 33,
+        "question": "Qual é um exemplo de polissíndeto?",
+        "options": [
+          "A) 'Vim, vi, venci.'",
+          "B) 'E corre, e grita, e chora de alegria.'",
+          "C) 'Na sala, apenas dois alunos.'",
+          "D) 'Tudo cura, tudo salva, tudo consola.'"
+        ],
+        "answer": "B"
+      },
+      {
+        "number": 34,
+        "question": "Qual figura de linguagem está exemplificada pela frase 'Subir para cima'?",
+        "options": [
+          "A) Pleonasmo",
+          "B) Polissíndeto",
+          "C) Zeugma",
+          "D) Hipérbato"
+        ],
+        "answer": "A"
+      },
+      {
+        "number": 35,
+        "question": "Qual é a função do pleonasmo?",
+        "options": [
+          "A) Repetir palavras para reforçar uma ideia",
+          "B) Omitir termos",
+          "C) Inverter a ordem das palavras",
+          "D) Substituir termos"
+        ],
+        "answer": "A"
+      },
+      {
+        "number": 36,
+        "question": "Qual figura de linguagem é exemplificada pela frase 'Eu, quando era criança, as pessoas me adoravam.'?",
+        "options": [
+          "A) Elipse",
+          "B) Anacoluto",
+          "C) Antítese",
+          "D) Comparação"
+        ],
+        "answer": "B"
+      },
+      {
+        "number": 37,
+        "question": "Qual é a função do anacoluto na construção de uma frase?",
+        "options": [
+          "A) Omitir termos repetitivos",
+          "B) Repetir palavras no início de frases",
+          "C) Interromper a estrutura lógica da frase",
+          "D) Inverter a ordem das palavras"
+        ],
+        "answer": "C"
+      },
+      {
+        "number": 38,
+        "question": "Qual figura de linguagem está presente na frase 'O dia estava claro, mas sua alma escura.'?",
+        "options": [
+          "A) Antítese",
+          "B) Paradoxo",
+          "C) Hipérbole",
+          "D) Eufemismo"
+        ],
+        "answer": "A"
+      },
+      {
+        "number": 39,
+        "question": "Qual figura de linguagem é exemplificada pela frase 'O silêncio ensurdecedor.'?",
+        "options": [
+          "A) Antítese",
+          "B) Paradoxo",
+          "C) Ironia",
+          "D) Gradação"
+        ],
+        "answer": "B"
+      },
+      {
+        "number": 40,
+        "question": "Qual é a função do paradoxo na construção textual?",
+        "options": [
+          "A) Criar uma contradição que revela uma verdade oculta",
+          "B) Repetir palavras para reforçar uma ideia",
+          "C) Omitir termos",
+          "D) Usar exagero para efeito dramático"
+        ],
+        "answer": "A"
+      },
+      {
+        "number": 41,
+        "question": "Qual figura de linguagem está exemplificada pela frase 'Que pessoa educada, nem se despediu!'?",
+        "options": [
+          "A) Ironia",
+          "B) Eufemismo",
+          "C) Hipérbole",
+          "D) Paradoxo"
+        ],
+        "answer": "A"
+      },
+      {
+        "number": 42,
+        "question": "Qual é a função da hipérbole na comunicação?",
+        "options": [
+          "A) Afirmar o oposto do que se quer dizer",
+          "B) Exagerar uma ideia para expressar enfaticamente",
+          "C) Suavizar uma ideia desagradável",
+          "D) Substituir um termo por outro"
+        ],
+        "answer": "B"
+      },
+      {
+        "number": 43,
+        "question": "Qual figura de linguagem está presente na frase 'O vento sussurrava entre as árvores.'?",
+        "options": [
+          "A) Prosopopeia",
+          "B) Comparação",
+          "C) Metáfora",
+          "D) Metonímia"
+        ],
+        "answer": "A"
+      },
+      {
+        "number": 44,
+        "question": "Qual é a figura de linguagem que usa a repetição de sons vocálicos para criar efeito?",
+        "options": [
+          "A) Aliteração",
+          "B) Assonância",
+          "C) Onomatopeia",
+          "D) Metáfora"
+        ],
+        "answer": "B"
+      },
+      {
+        "number": 45,
+        "question": "Qual é um exemplo de assonância?",
+        "options": [
+          "A) 'O rato roeu a roupa do rei de Roma.'",
+          "B) 'O tic-tac do relógio me incomodava.'",
+          "C) 'A minha alma tá armada e apontada para a cara do sossego.'",
+          "D) 'A vida é um mar de rosas.'"
+        ],
+        "answer": "C"
+      },
+      {
+        "number": 46,
+        "question": "Qual figura de linguagem está presente na frase 'A vida é um mar de rosas.'?",
+        "options": [
+          "A) Metáfora",
+          "B) Comparação",
+          "C) Metonímia",
+          "D) Catacrese"
+        ],
+        "answer": "A"
+      },
+      {
+        "number": 47,
+        "question": "Qual figura de linguagem é exemplificada pela frase 'Ele é forte como um touro.'?",
+        "options": [
+          "A) Metáfora",
+          "B) Comparação",
+          "C) Metonímia",
+          "D) Sinestesia"
+        ],
+        "answer": "B"
+      },
+      {
+        "number": 48,
+        "question": "Qual figura de linguagem usa um termo em lugar de outro com base em semelhança?",
+        "options": [
+          "A) Metáfora",
+          "B) Comparação",
+          "C) Metonímia",
+          "D) Catacrese"
+        ],
+        "answer": "A"
+      },
+      {
+        "number": 49,
+        "question": "Qual figura de linguagem é exemplificada pela frase 'Li Machado de Assis.'?",
+        "options": [
+          "A) Metáfora",
+          "B) Comparação",
+          "C) Metonímia",
+          "D) Sinestesia"
+        ],
+        "answer": "C"
+      },
+      {
+        "number": 50,
+        "question": "Qual é a função da metonímia na linguagem?",
+        "options": [
+          "A) Substituir um termo por outro com base em uma relação de proximidade",
+          "B) Comparar dois elementos usando conectivos",
+          "C) Criar uma imagem poética",
+          "D) Usar um termo fora de seu sentido comum"
+        ],
+        "answer": "A"
+      },
+      {
+        "number": 51,
+        "question": "Qual é a figura de linguagem que mistura sensações relacionadas a diferentes sentidos?",
+        "options": [
+          "A) Sinestesia",
+          "B) Metáfora",
+          "C) Comparação",
+          "D) Catacrese"
+        ],
+        "answer": "A"
+      },
+      {
+        "number": 52,
+        "question": "Qual figura de linguagem está presente na frase 'Uma voz doce e quente me acalmou.'?",
+        "options": [
+          "A) Sinestesia",
+          "B) Metáfora",
+          "C) Comparação",
+          "D) Eufemismo"
+        ],
+        "answer": "A"
+      },
+      {
+        "number": 53,
+        "question": "Qual é a figura de linguagem que usa um termo fora de seu sentido comum por falta de um termo específico?",
+        "options": [
+          "A) Metáfora",
+          "B) Comparação",
+          "C) Catacrese",
+          "D) Sinestesia"
+        ],
+        "answer": "C"
+      },
+      {
+        "number": 54,
+        "question": "Qual figura de linguagem está exemplificada pela frase 'O pé da mesa quebrou.'?",
+        "options": [
+          "A) Metáfora",
+          "B) Comparação",
+          "C) Catacrese",
+          "D) Metonímia"
+        ],
+        "answer": "C"
+      },
+      {
+        "number": 55,
+        "question": "Qual é a figura de linguagem que utiliza a repetição de sons consonantais?",
+        "options": [
+          "A) Assonância",
+          "B) Aliteração",
+          "C) Onomatopeia",
+          "D) Sinestesia"
+        ],
+        "answer": "B"
+      },
+      {
+        "number": 56,
+        "question": "Qual figura de linguagem está presente na frase 'O tic-tac do relógio me incomodava.'?",
+        "options": [
+          "A) Aliteração",
+          "B) Onomatopeia",
+          "C) Metáfora",
+          "D) Comparação"
+        ],
+        "answer": "B"
+      },
+      {
+        "number": 57,
+        "question": "Qual é a função da figura de linguagem conhecida como onomatopeia?",
+        "options": [
+          "A) Repetir sons vocálicos",
+          "B) Imitar sons naturais",
+          "C) Criar comparações explícitas",
+          "D) Substituir um termo por outro"
+        ],
+        "answer": "B"
+      },
+      {
+        "number": 58,
+        "question": "Qual figura de linguagem está presente na frase 'A minha alma tá armada e apontada para a cara do sossego.'?",
+        "options": [
+          "A) Aliteração",
+          "B) Assonância",
+          "C) Onomatopeia",
+          "D) Metáfora"
+        ],
+        "answer": "B"
+      },
+      {
+        "number": 59,
+        "question": "Qual figura de linguagem é exemplificada pela frase 'Ele correu, voou, desapareceu.'?",
+        "options": [
+          "A) Prosopopeia",
+          "B) Gradação",
+          "C) Hipérbole",
+          "D) Ironia"
+        ],
+        "answer": "B"
+      },
+      {
+        "number": 60,
+        "question": "Qual é a função da gradação em um texto?",
+        "options": [
+          "A) Criar uma comparação implícita",
+          "B) Usar exagero para efeito dramático",
+          "C) Apresentar ideias em progressão, podendo ser crescente ou decrescente",
+          "D) Substituir um termo por outro com base em uma relação de proximidade"
+        ],
+        "answer": "C"
+      }
+    ]
+  }
+  

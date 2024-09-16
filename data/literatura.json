@@ -1,0 +1,605 @@
+{
+    "questions": [
+      {
+        "question": "1. O que caracteriza o período do Quinhentismo na literatura brasileira?",
+        "options": [
+          "A) Literatura de caráter documental e descritivo",
+          "B) Valorização da vida no campo",
+          "C) Romantismo e nacionalismo",
+          "D) Crítica à hipocrisia da sociedade burguesa"
+        ],
+        "answer": "A"
+      },
+      {
+        "question": "2. Quem é um dos principais autores do Quinhentismo?",
+        "options": [
+          "A) Machado de Assis",
+          "B) José de Alencar",
+          "C) Pero Vaz de Caminha",
+          "D) Olavo Bilac"
+        ],
+        "answer": "C"
+      },
+      {
+        "question": "3. Qual era a principal característica do Barroco na literatura brasileira?",
+        "options": [
+          "A) Bucolismo e simplicidade",
+          "B) Linguagem rebuscada e contraste",
+          "C) Idealização da natureza",
+          "D) Multiplicidade de temas e estilos"
+        ],
+        "answer": "B"
+      },
+      {
+        "question": "4. Quem é um autor representativo do Barroco?",
+        "options": [
+          "A) Tomás Antônio Gonzaga",
+          "B) Gregório de Matos",
+          "C) Carlos Drummond de Andrade",
+          "D) João Ubaldo Ribeiro"
+        ],
+        "answer": "B"
+      },
+      {
+        "question": "5. O que define o Arcadismo na literatura brasileira?",
+        "options": [
+          "A) Crítica social e política",
+          "B) Valorização da língua coloquial",
+          "C) Bucolismo e idealização da natureza",
+          "D) Valorização do subjetivismo e mistério"
+        ],
+        "answer": "C"
+      },
+      {
+        "question": "6. Quem é um autor do Arcadismo?",
+        "options": [
+          "A) Cruz e Sousa",
+          "B) Cláudio Manuel da Costa",
+          "C) Milton Hatoum",
+          "D) Graciliano Ramos"
+        ],
+        "answer": "B"
+      },
+      {
+        "question": "7. O que caracteriza a literatura do Romantismo?",
+        "options": [
+          "A) Representação fiel da realidade",
+          "B) Valorização da vida no campo",
+          "C) Exaltação das emoções e do amor idealizado",
+          "D) Valorização da forma e perfeição métrica"
+        ],
+        "answer": "C"
+      },
+      {
+        "question": "8. Qual autor é conhecido por sua obra 'O Guarani'?",
+        "options": [
+          "A) Álvares de Azevedo",
+          "B) Gonçalves Dias",
+          "C) José de Alencar",
+          "D) Olavo Bilac"
+        ],
+        "answer": "C"
+      },
+      {
+        "question": "9. O que define o Realismo e Naturalismo na literatura brasileira?",
+        "options": [
+          "A) Idealização da natureza e simplicidade",
+          "B) Representação fiel da realidade e enfoque biológico",
+          "C) Exaltação das emoções e amor idealizado",
+          "D) Linguagem rebuscada e contrastes"
+        ],
+        "answer": "B"
+      },
+      {
+        "question": "10. Quem é um autor do Realismo?",
+        "options": [
+          "A) Aluísio Azevedo",
+          "B) Machado de Assis",
+          "C) Tomás Antônio Gonzaga",
+          "D) Cruz e Sousa"
+        ],
+        "answer": "B"
+      },
+      {
+        "question": "11. Qual é a característica principal do Parnasianismo?",
+        "options": [
+          "A) Valorização da língua coloquial",
+          "B) Crítica social e política",
+          "C) Valorização da forma e perfeição métrica",
+          "D) Valorização do subjetivismo e mistério"
+        ],
+        "answer": "C"
+      },
+      {
+        "question": "12. Quem é um autor do Parnasianismo?",
+        "options": [
+          "A) João Cabral de Melo Neto",
+          "B) Gregório de Matos",
+          "C) Olavo Bilac",
+          "D) Milton Hatoum"
+        ],
+        "answer": "C"
+      },
+      {
+        "question": "13. O que caracteriza o Simbolismo na literatura brasileira?",
+        "options": [
+          "A) Idealização da natureza e simplicidade",
+          "B) Linguagem rebuscada e contrastes",
+          "C) Valorização do subjetivismo e mistério",
+          "D) Representação fiel da realidade"
+        ],
+        "answer": "C"
+      },
+      {
+        "question": "14. Quem é um autor do Simbolismo?",
+        "options": [
+          "A) Cruz e Sousa",
+          "B) Mário de Andrade",
+          "C) Graciliano Ramos",
+          "D) Álvares de Azevedo"
+        ],
+        "answer": "A"
+      },
+      {
+        "question": "15. Qual é a principal característica do Modernismo na literatura brasileira?",
+        "options": [
+          "A) Valorização da forma e perfeição métrica",
+          "B) Exaltação das emoções e amor idealizado",
+          "C) Valorização da língua coloquial e irreverência",
+          "D) Representação fiel da realidade"
+        ],
+        "answer": "C"
+      },
+      {
+        "question": "16. Quem é um autor da 1ª Fase do Modernismo?",
+        "options": [
+          "A) João Cabral de Melo Neto",
+          "B) Clarice Lispector",
+          "C) Oswald de Andrade",
+          "D) Chico Buarque"
+        ],
+        "answer": "C"
+      },
+      {
+        "question": "17. O que caracteriza a 2ª Fase do Modernismo?",
+        "options": [
+          "A) Radicalismo e ruptura com o passado",
+          "B) Literatura mais introspectiva e regionalista",
+          "C) Diversidade temática e renovação formal",
+          "D) Valorização do subjetivismo e mistério"
+        ],
+        "answer": "B"
+      },
+      {
+        "question": "18. Quem é um autor da 3ª Fase do Modernismo?",
+        "options": [
+          "A) Mário de Andrade",
+          "B) Manuel Bandeira",
+          "C) João Cabral de Melo Neto",
+          "D) Gonçalves Dias"
+        ],
+        "answer": "C"
+      },
+      {
+        "question": "19. O que é uma característica da Literatura Contemporânea?",
+        "options": [
+          "A) Valorização da forma e perfeição métrica",
+          "B) Exaltação das emoções e amor idealizado",
+          "C) Multiplicidade de temas, estilos e formas",
+          "D) Valorização do subjetivismo e mistério"
+        ],
+        "answer": "C"
+      },
+      {
+        "question": "20. Quem é um autor da Literatura Contemporânea?",
+        "options": [
+          "A) Manuel Bandeira",
+          "B) Chico Buarque",
+          "C) Tomás Antônio Gonzaga",
+          "D) José de Alencar"
+        ],
+        "answer": "B"
+      },
+      {
+        "question": "21. Qual é a principal característica do Quinhentismo?",
+        "options": [
+          "A) Exaltação das emoções",
+          "B) Literatura de caráter documental e descritivo",
+          "C) Idealização da natureza",
+          "D) Crítica social e política"
+        ],
+        "answer": "B"
+      },
+      {
+        "question": "22. Quem é um autor do Barroco?",
+        "options": [
+          "A) José de Alencar",
+          "B) Cruz e Sousa",
+          "C) Padre Antônio Vieira",
+          "D) Gonçalves Dias"
+        ],
+        "answer": "C"
+      },
+      {
+        "question": "23. O que caracteriza o Arcadismo na literatura brasileira?",
+        "options": [
+          "A) Linguagem rebuscada e contrastes",
+          "B) Idealização da natureza e simplicidade",
+          "C) Multiplicidade de temas e estilos",
+          "D) Valorização da forma e perfeição métrica"
+        ],
+        "answer": "B"
+      },
+      {
+        "question": "24. Quem é um autor do Romantismo?",
+        "options": [
+          "A) Machado de Assis",
+          "B) Graciliano Ramos",
+          "C) Gonçalves Dias",
+          "D) Olavo Bilac"
+        ],
+        "answer": "C"
+      },
+      {
+        "question": "25. Qual é a principal característica do Realismo?",
+        "options": [
+          "A) Idealização da natureza",
+          "B) Representação fiel da realidade",
+          "C) Linguagem rebuscada e contrastes",
+          "D) Valorização da forma e perfeição métrica"
+        ],
+        "answer": "B"
+      },
+      {
+        "question": "26. Quem é um autor do Naturalismo?",
+        "options": [
+          "A) Machado de Assis",
+          "B) Aluísio Azevedo",
+          "C) Olavo Bilac",
+          "D) Mário de Andrade"
+        ],
+        "answer": "B"
+      },
+      {
+        "question": "27. Qual é a principal característica do Parnasianismo?",
+        "options": [
+          "A) Representação fiel da realidade",
+          "B) Valorização do subjetivismo e mistério",
+          "C) Valorização da forma e perfeição métrica",
+          "D) Exaltação das emoções e amor idealizado"
+        ],
+        "answer": "C"
+      },
+      {
+        "question": "28. Quem é um autor do Simbolismo?",
+        "options": [
+          "A) Manuel Bandeira",
+          "B) José de Alencar",
+          "C) Alphonsus de Guimaraens",
+          "D) Machado de Assis"
+        ],
+        "answer": "C"
+      },
+      {
+        "question": "29. Qual é a principal característica do Modernismo?",
+        "options": [
+          "A) Representação fiel da realidade",
+          "B) Valorização da língua coloquial e irreverência",
+          "C) Idealização da natureza",
+          "D) Linguagem rebuscada e contrastes"
+        ],
+        "answer": "B"
+      },
+      {
+        "question": "30. Quem é um autor da 1ª Fase do Modernismo?",
+        "options": [
+          "A) Carlos Drummond de Andrade",
+          "B) Graciliano Ramos",
+          "C) Oswald de Andrade",
+          "D) Milton Hatoum"
+        ],
+        "answer": "C"
+      },
+      {
+        "question": "31. O que caracteriza a 2ª Fase do Modernismo?",
+        "options": [
+          "A) Radicalismo e ruptura com o passado",
+          "B) Literatura mais introspectiva e regionalista",
+          "C) Diversidade temática e renovação formal",
+          "D) Valorização do subjetivismo e mistério"
+        ],
+        "answer": "B"
+      },
+      {
+        "question": "32. Quem é um autor da 3ª Fase do Modernismo?",
+        "options": [
+          "A) Graciliano Ramos",
+          "B) João Cabral de Melo Neto",
+          "C) Gonçalves Dias",
+          "D) Cruz e Sousa"
+        ],
+        "answer": "B"
+      },
+      {
+        "question": "33. O que caracteriza a Literatura Contemporânea?",
+        "options": [
+          "A) Valorização da forma e perfeição métrica",
+          "B) Exaltação das emoções e amor idealizado",
+          "C) Multiplicidade de temas, estilos e formas",
+          "D) Valorização do subjetivismo e mistério"
+        ],
+        "answer": "C"
+      },
+      {
+        "question": "34. Quem é um autor da Literatura Contemporânea?",
+        "options": [
+          "A) Mário de Andrade",
+          "B) José de Alencar",
+          "C) João Ubaldo Ribeiro",
+          "D) Gonçalves Dias"
+        ],
+        "answer": "C"
+      },
+      {
+        "question": "35. Qual é o contexto histórico do Quinhentismo?",
+        "options": [
+          "A) Período do descobrimento do Brasil",
+          "B) Influência do Iluminismo",
+          "C) Consolidação do Brasil como nação independente",
+          "D) Pós-modernismo e influência de novas mídias"
+        ],
+        "answer": "A"
+      },
+      {
+        "question": "36. Qual é a característica principal do Barroco?",
+        "options": [
+          "A) Bucolismo e simplicidade",
+          "B) Linguagem rebuscada e contraste",
+          "C) Idealização da natureza",
+          "D) Multiplicidade de temas e estilos"
+        ],
+        "answer": "B"
+      },
+      {
+        "question": "37. Quem é um autor do Arcadismo?",
+        "options": [
+          "A) Machado de Assis",
+          "B) Olavo Bilac",
+          "C) Tomás Antônio Gonzaga",
+          "D) Clarice Lispector"
+        ],
+        "answer": "C"
+      },
+      {
+        "question": "38. O que define a 1ª Geração do Romantismo?",
+        "options": [
+          "A) Nacionalismo e indianismo",
+          "B) Ultrarromântica e pessimista",
+          "C) Temática social e abolicionista",
+          "D) Valorização da língua coloquial"
+        ],
+        "answer": "A"
+      },
+      {
+        "question": "39. Quem é um autor da 2ª Geração do Romantismo?",
+        "options": [
+          "A) Gonçalves Dias",
+          "B) José de Alencar",
+          "C) Álvares de Azevedo",
+          "D) Castro Alves"
+        ],
+        "answer": "C"
+      },
+      {
+        "question": "40. Qual é a principal característica do Naturalismo?",
+        "options": [
+          "A) Idealização da natureza",
+          "B) Representação fiel da realidade",
+          "C) Enfoque nas forças instintivas e biológicas",
+          "D) Linguagem rebuscada e contrastes"
+        ],
+        "answer": "C"
+      },
+      {
+        "question": "41. Quem é um autor do Parnasianismo?",
+        "options": [
+          "A) Gregório de Matos",
+          "B) Olavo Bilac",
+          "C) Carlos Drummond de Andrade",
+          "D) Manuel Bandeira"
+        ],
+        "answer": "B"
+      },
+      {
+        "question": "42. O que caracteriza o Simbolismo?",
+        "options": [
+          "A) Valorização da forma e perfeição métrica",
+          "B) Exaltação das emoções e amor idealizado",
+          "C) Valorização do subjetivismo e mistério",
+          "D) Multiplicidade de temas e estilos"
+        ],
+        "answer": "C"
+      },
+      {
+        "question": "43. Quem é um autor do Modernismo?",
+        "options": [
+          "A) João Ubaldo Ribeiro",
+          "B) Gonçalves Dias",
+          "C) Manuel Bandeira",
+          "D) Cláudio Manuel da Costa"
+        ],
+        "answer": "C"
+      },
+      {
+        "question": "44. Qual é a principal característica da 2ª Fase do Modernismo?",
+        "options": [
+          "A) Radicalismo e ruptura com o passado",
+          "B) Literatura mais introspectiva e regionalista",
+          "C) Diversidade temática e renovação formal",
+          "D) Valorização da forma e perfeição métrica"
+        ],
+        "answer": "B"
+      },
+      {
+        "question": "45. Quem é um autor da 3ª Fase do Modernismo?",
+        "options": [
+          "A) João Cabral de Melo Neto",
+          "B) Graciliano Ramos",
+          "C) José de Alencar",
+          "D) Olavo Bilac"
+        ],
+        "answer": "A"
+      },
+      {
+        "question": "46. O que caracteriza a Literatura Contemporânea?",
+        "options": [
+          "A) Valorização da forma e perfeição métrica",
+          "B) Exaltação das emoções e amor idealizado",
+          "C) Multiplicidade de temas e formas",
+          "D) Idealização da natureza"
+        ],
+        "answer": "C"
+      },
+      {
+        "question": "47. Quem é um autor do Simbolismo?",
+        "options": [
+          "A) Manuel Bandeira",
+          "B) Mário de Andrade",
+          "C) Cruz e Sousa",
+          "D) José de Alencar"
+        ],
+        "answer": "C"
+      },
+      {
+        "question": "48. Qual é a principal característica do Realismo?",
+        "options": [
+          "A) Idealização da natureza",
+          "B) Representação fiel da realidade",
+          "C) Valorização do subjetivismo e mistério",
+          "D) Valorização da língua coloquial"
+        ],
+        "answer": "B"
+      },
+      {
+        "question": "49. Quem é um autor do Naturalismo?",
+        "options": [
+          "A) Manuel Bandeira",
+          "B) Machado de Assis",
+          "C) Aluísio Azevedo",
+          "D) Gonçalves Dias"
+        ],
+        "answer": "C"
+      },
+      {
+        "question": "50. Qual é a característica do Modernismo?",
+        "options": [
+          "A) Valorização da forma e perfeição métrica",
+          "B) Valorização da língua coloquial e irreverência",
+          "C) Idealização da natureza",
+          "D) Linguagem rebuscada e contrastes"
+        ],
+        "answer": "B"
+      },
+      {
+        "question": "51. Quem é um autor da 1ª Fase do Modernismo?",
+        "options": [
+          "A) Clarice Lispector",
+          "B) Carlos Drummond de Andrade",
+          "C) Oswald de Andrade",
+          "D) João Cabral de Melo Neto"
+        ],
+        "answer": "C"
+      },
+      {
+        "question": "52. Qual é a principal característica do Arcadismo?",
+        "options": [
+          "A) Exaltação das emoções e amor idealizado",
+          "B) Bucolismo e simplicidade",
+          "C) Multiplicidade de temas e estilos",
+          "D) Valorização do subjetivismo e mistério"
+        ],
+        "answer": "B"
+      },
+      {
+        "question": "53. Quem é um autor da Literatura Contemporânea?",
+        "options": [
+          "A) Tomás Antônio Gonzaga",
+          "B) José de Alencar",
+          "C) Chico Buarque",
+          "D) Gregório de Matos"
+        ],
+        "answer": "C"
+      },
+      {
+        "question": "54. Qual é a característica principal do Barroco?",
+        "options": [
+          "A) Idealização da natureza",
+          "B) Linguagem rebuscada e contraste",
+          "C) Multiplicidade de temas e formas",
+          "D) Valorização da forma e perfeição métrica"
+        ],
+        "answer": "B"
+      },
+      {
+        "question": "55. Quem é um autor do Arcadismo?",
+        "options": [
+          "A) Machado de Assis",
+          "B) José de Alencar",
+          "C) Cláudio Manuel da Costa",
+          "D) Clarice Lispector"
+        ],
+        "answer": "C"
+      },
+      {
+        "question": "56. Qual é a característica do Naturalismo?",
+        "options": [
+          "A) Idealização da natureza",
+          "B) Representação fiel da realidade",
+          "C) Linguagem rebuscada e contraste",
+          "D) Valorização do subjetivismo e mistério"
+        ],
+        "answer": "B"
+      },
+      {
+        "question": "57. Quem é um autor do Simbolismo?",
+        "options": [
+          "A) Manuel Bandeira",
+          "B) Mário de Andrade",
+          "C) Alphonsus de Guimaraens",
+          "D) Machado de Assis"
+        ],
+        "answer": "C"
+      },
+      {
+        "question": "58. O que caracteriza a 3ª Fase do Modernismo?",
+        "options": [
+          "A) Radicalismo e ruptura com o passado",
+          "B) Literatura mais introspectiva e regionalista",
+          "C) Diversidade temática e renovação formal",
+          "D) Valorização da forma e perfeição métrica"
+        ],
+        "answer": "C"
+      },
+      {
+        "question": "59. Quem é um autor do Realismo?",
+        "options": [
+          "A) José de Alencar",
+          "B) Gonçalves Dias",
+          "C) Machado de Assis",
+          "D) Olavo Bilac"
+        ],
+        "answer": "C"
+      },
+      {
+        "question": "60. Qual é a característica principal da Literatura Contemporânea?",
+        "options": [
+          "A) Valorização da forma e perfeição métrica",
+          "B) Exaltação das emoções e amor idealizado",
+          "C) Multiplicidade de temas e formas",
+          "D) Idealização da natureza"
+        ],
+        "answer": "C"
+      }
+    ]
+  }
+  

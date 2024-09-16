@@ -1,0 +1,605 @@
+{
+    "questions": [
+      {
+        "question": "1. O que estuda a Fonética?",
+        "options": [
+          "A) A produção dos sons da fala",
+          "B) A função dos fonemas na língua",
+          "C) A estrutura das palavras",
+          "D) O significado das palavras"
+        ],
+        "answer": "A"
+      },
+      {
+        "question": "2. O que estuda a Fonologia?",
+        "options": [
+          "A) Os sons da fala",
+          "B) A organização das palavras em frases",
+          "C) Os fonemas e seu funcionamento",
+          "D) As regras de escrita correta"
+        ],
+        "answer": "C"
+      },
+      {
+        "question": "3. Qual é a principal preocupação da Morfologia?",
+        "options": [
+          "A) A estrutura das palavras",
+          "B) A organização das frases",
+          "C) O significado das palavras",
+          "D) O uso correto das palavras"
+        ],
+        "answer": "A"
+      },
+      {
+        "question": "4. Qual é a função de um Substantivo?",
+        "options": [
+          "A) Caracterizar o substantivo",
+          "B) Modificar verbos ou adjetivos",
+          "C) Designar seres, coisas e lugares",
+          "D) Conectar palavras"
+        ],
+        "answer": "C"
+      },
+      {
+        "question": "5. Qual é a função de um Adjetivo?",
+        "options": [
+          "A) Designar ações",
+          "B) Modificar substantivos",
+          "C) Conectar frases",
+          "D) Expressar emoções"
+        ],
+        "answer": "B"
+      },
+      {
+        "question": "6. O que é um Radical em Morfologia?",
+        "options": [
+          "A) Parte que modifica o sentido da palavra",
+          "B) Parte que contém o significado básico da palavra",
+          "C) Elemento que flexiona o gênero",
+          "D) Prefixo ou sufixo"
+        ],
+        "answer": "B"
+      },
+      {
+        "question": "7. Qual é a função de um Advérbio?",
+        "options": [
+          "A) Substituir substantivos",
+          "B) Modificar verbos, adjetivos ou outros advérbios",
+          "C) Conectar palavras",
+          "D) Designar ações"
+        ],
+        "answer": "B"
+      },
+      {
+        "question": "8. O que estuda a Sintaxe?",
+        "options": [
+          "A) A estrutura das palavras",
+          "B) O significado das palavras",
+          "C) A organização das palavras em frases",
+          "D) A escrita correta das palavras"
+        ],
+        "answer": "C"
+      },
+      {
+        "question": "9. Qual é o termo essencial da oração?",
+        "options": [
+          "A) Sujeito",
+          "B) Complemento nominal",
+          "C) Adjunto adnominal",
+          "D) Aposto"
+        ],
+        "answer": "A"
+      },
+      {
+        "question": "10. O que é um Sujeito na sintaxe?",
+        "options": [
+          "A) O que se diz do sujeito",
+          "B) Quem pratica ou sofre a ação",
+          "C) Complemento verbal",
+          "D) Modificador do verbo"
+        ],
+        "answer": "B"
+      },
+      {
+        "question": "11. O que é um Predicado na sintaxe?",
+        "options": [
+          "A) O complemento verbal",
+          "B) O que se diz do sujeito",
+          "C) O modificador do substantivo",
+          "D) A relação entre verbo e complemento"
+        ],
+        "answer": "B"
+      },
+      {
+        "question": "12. Qual é a função de um Objeto Direto?",
+        "options": [
+          "A) Modificar o verbo",
+          "B) Completar o sentido do verbo",
+          "C) Acompanhar o substantivo",
+          "D) Explicar o substantivo"
+        ],
+        "answer": "B"
+      },
+      {
+        "question": "13. O que estuda a Semântica?",
+        "options": [
+          "A) O significado das palavras e frases",
+          "B) A estrutura das palavras",
+          "C) A organização das frases",
+          "D) As regras de ortografia"
+        ],
+        "answer": "A"
+      },
+      {
+        "question": "14. O que é Sinonímia?",
+        "options": [
+          "A) Palavras com significados opostos",
+          "B) Palavras com a mesma forma e significados diferentes",
+          "C) Uma palavra com vários significados",
+          "D) Palavras com significados semelhantes"
+        ],
+        "answer": "D"
+      },
+      {
+        "question": "15. O que é Antonímia?",
+        "options": [
+          "A) Palavras com significados semelhantes",
+          "B) Palavras com a mesma forma e significados diferentes",
+          "C) Uma palavra com vários significados",
+          "D) Palavras com significados opostos"
+        ],
+        "answer": "D"
+      },
+      {
+        "question": "16. O que é Homonímia?",
+        "options": [
+          "A) Palavras com significados semelhantes",
+          "B) Palavras com significados opostos",
+          "C) Palavras com a mesma forma e significados diferentes",
+          "D) Uma palavra com vários significados"
+        ],
+        "answer": "C"
+      },
+      {
+        "question": "17. O que é Polissemia?",
+        "options": [
+          "A) Palavras com significados semelhantes",
+          "B) Palavras com significados opostos",
+          "C) Palavras com a mesma forma e significados diferentes",
+          "D) Uma palavra com vários significados"
+        ],
+        "answer": "D"
+      },
+      {
+        "question": "18. Qual é a principal preocupação da Ortografia?",
+        "options": [
+          "A) A estrutura das palavras",
+          "B) O significado das palavras",
+          "C) A escrita correta das palavras",
+          "D) A organização das frases"
+        ],
+        "answer": "C"
+      },
+      {
+        "question": "19. Qual é o uso de acentos gráficos na Ortografia?",
+        "options": [
+          "A) Modificar verbos",
+          "B) Conectar palavras",
+          "C) Escrever palavras corretamente",
+          "D) Explicar o substantivo"
+        ],
+        "answer": "C"
+      },
+      {
+        "question": "20. O que é Concordância Nominal?",
+        "options": [
+          "A) O verbo concorda com o sujeito em número e pessoa",
+          "B) O substantivo concorda em gênero e número com adjetivos e pronomes",
+          "C) O pronome vem antes do verbo",
+          "D) A preposição se junta ao artigo feminino"
+        ],
+        "answer": "B"
+      },
+      {
+        "question": "21. Qual é um exemplo de Concordância Nominal?",
+        "options": [
+          "A) 'Eles foram ao parque'",
+          "B) 'As meninas felizes estavam dançando'",
+          "C) 'Ele gosta de música'",
+          "D) 'Vou à escola'"
+        ],
+        "answer": "B"
+      },
+      {
+        "question": "22. O que é Concordância Verbal?",
+        "options": [
+          "A) O substantivo concorda com o adjetivo",
+          "B) O pronome vem depois do verbo",
+          "C) O verbo concorda com o sujeito em número e pessoa",
+          "D) A preposição se funde com o artigo feminino"
+        ],
+        "answer": "C"
+      },
+      {
+        "question": "23. Qual é um exemplo de Concordância Verbal?",
+        "options": [
+          "A) 'As meninas felizes estavam dançando'",
+          "B) 'Diga-me o que aconteceu'",
+          "C) 'Eles foram ao parque'",
+          "D) 'Vou à escola'"
+        ],
+        "answer": "C"
+      },
+      {
+        "question": "24. O que é Regência Verbal?",
+        "options": [
+          "A) Relação entre verbo e seus complementos",
+          "B) Relação entre nomes e seus complementos",
+          "C) Organização das palavras em frases",
+          "D) A estrutura das palavras"
+        ],
+        "answer": "A"
+      },
+      {
+        "question": "25. Qual é um exemplo de Regência Verbal?",
+        "options": [
+          "A) 'Ele é favorável a mudanças'",
+          "B) 'Ele gosta de música'",
+          "C) 'As meninas felizes estavam dançando'",
+          "D) 'Vou à escola'"
+        ],
+        "answer": "B"
+      },
+      {
+        "question": "26. O que é Regência Nominal?",
+        "options": [
+          "A) Relação entre verbos e complementos",
+          "B) Relação entre nomes e seus complementos",
+          "C) Organização das palavras em frases",
+          "D) A estrutura das palavras"
+        ],
+        "answer": "B"
+      },
+      {
+        "question": "27. Qual é um exemplo de Regência Nominal?",
+        "options": [
+          "A) 'Ele gosta de música'",
+          "B) 'Ele é favorável a mudanças'",
+          "C) 'Diga-me o que aconteceu'",
+          "D) 'As meninas felizes estavam dançando'"
+        ],
+        "answer": "B"
+      },
+      {
+        "question": "28. O que é Próclise?",
+        "options": [
+          "A) O pronome vem depois do verbo",
+          "B) O pronome vem antes do verbo",
+          "C) O pronome vem no meio do verbo",
+          "D) O pronome se funde com o artigo feminino"
+        ],
+        "answer": "B"
+      },
+      {
+        "question": "29. Qual é um exemplo de Próclise?",
+        "options": [
+          "A) 'Diga-me o que aconteceu'",
+          "B) 'Dir-me-ei a verdade'",
+          "C) 'Não me diga isso'",
+          "D) 'Ele gosta de música'"
+        ],
+        "answer": "C"
+      },
+      {
+        "question": "30. O que é Ênclise?",
+        "options": [
+          "A) O pronome vem depois do verbo",
+          "B) O pronome vem antes do verbo",
+          "C) O pronome vem no meio do verbo",
+          "D) O pronome se funde com o artigo feminino"
+        ],
+        "answer": "A"
+      },
+      {
+        "question": "31. Qual é um exemplo de Ênclise?",
+        "options": [
+          "A) 'Não me diga isso'",
+          "B) 'Dir-me-ei a verdade'",
+          "C) 'Diga-me o que aconteceu'",
+          "D) 'Ele gosta de música'"
+        ],
+        "answer": "C"
+      },
+      {
+        "question": "32. O que é Mesóclise?",
+        "options": [
+          "A) O pronome vem depois do verbo",
+          "B) O pronome vem antes do verbo",
+          "C) O pronome vem no meio do verbo",
+          "D) O pronome se funde com o artigo feminino"
+        ],
+        "answer": "C"
+      },
+      {
+        "question": "33. Qual é um exemplo de Mesóclise?",
+        "options": [
+          "A) 'Dir-me-ei a verdade'",
+          "B) 'Diga-me o que aconteceu'",
+          "C) 'Não me diga isso'",
+          "D) 'Ele gosta de música'"
+        ],
+        "answer": "A"
+      },
+      {
+        "question": "34. O que é Crase?",
+        "options": [
+          "A) Fusão da preposição 'a' com o artigo masculino 'o'",
+          "B) Fusão da preposição 'a' com o artigo feminino 'a'",
+          "C) Fusão da preposição 'de' com o artigo feminino 'a'",
+          "D) Fusão da preposição 'para' com o artigo masculino 'o'"
+        ],
+        "answer": "B"
+      },
+      {
+        "question": "35. Qual é um exemplo de Crase?",
+        "options": [
+          "A) 'Vou a escola'",
+          "B) 'Vou à escola'",
+          "C) 'Ele é favorável a mudanças'",
+          "D) 'Dir-me-ei a verdade'"
+        ],
+        "answer": "B"
+      },
+      {
+        "question": "36. Qual é a principal função do verbo na Sintaxe?",
+        "options": [
+          "A) Completar o sentido do verbo",
+          "B) Designar seres e lugares",
+          "C) Conectar palavras",
+          "D) Expressar ações, estados ou fenômenos"
+        ],
+        "answer": "D"
+      },
+      {
+        "question": "37. O que é um Adjunto Adnominal?",
+        "options": [
+          "A) Modifica o verbo",
+          "B) Acompanha e caracteriza o substantivo",
+          "C) Complementa o sentido do verbo",
+          "D) Explica o substantivo"
+        ],
+        "answer": "B"
+      },
+      {
+        "question": "38. Qual é a função de um Aposto?",
+        "options": [
+          "A) Acompanhar e caracterizar o substantivo",
+          "B) Modificar o verbo",
+          "C) Explicar ou detalhar o substantivo",
+          "D) Completar o sentido do verbo"
+        ],
+        "answer": "C"
+      },
+      {
+        "question": "39. Qual é a função de um Vocativo?",
+        "options": [
+          "A) Conectar palavras",
+          "B) Modificar o verbo",
+          "C) Chamar a atenção ou se dirigir a alguém",
+          "D) Explicar o substantivo"
+        ],
+        "answer": "C"
+      },
+      {
+        "question": "40. O que é um Complemento Nominal?",
+        "options": [
+          "A) Modifica o verbo",
+          "B) Explica ou detalha o substantivo",
+          "C) Completa o sentido de um nome",
+          "D) Conecta palavras"
+        ],
+        "answer": "C"
+      },
+      {
+        "question": "41. Qual é a função de um Adjunto Adverbial?",
+        "options": [
+          "A) Modificar o verbo, adjetivo ou advérbio",
+          "B) Acompanhar o substantivo",
+          "C) Explicar ou detalhar o substantivo",
+          "D) Completar o sentido do verbo"
+        ],
+        "answer": "A"
+      },
+      {
+        "question": "42. Qual é a função de um Pronome?",
+        "options": [
+          "A) Modificar o verbo",
+          "B) Substituir ou acompanhar o substantivo",
+          "C) Completar o sentido do verbo",
+          "D) Conectar palavras"
+        ],
+        "answer": "B"
+      },
+      {
+        "question": "43. O que são Desinências?",
+        "options": [
+          "A) Parte que contém o significado básico da palavra",
+          "B) Prefixos e sufixos",
+          "C) Elementos que indicam flexões de gênero, número, tempo e modo",
+          "D) Parte que modifica o sentido da palavra"
+        ],
+        "answer": "C"
+      },
+      {
+        "question": "44. O que é um Afixo?",
+        "options": [
+          "A) Elemento que modifica o sentido da palavra",
+          "B) Parte que contém o significado básico da palavra",
+          "C) Elemento que indica flexão de gênero",
+          "D) Prefixos e sufixos"
+        ],
+        "answer": "A"
+      },
+      {
+        "question": "45. O que é um Sujeito Oculto?",
+        "options": [
+          "A) O sujeito que está explícito na frase",
+          "B) O sujeito que não está presente na frase",
+          "C) O sujeito que é subentendido no contexto",
+          "D) O sujeito que é um pronome"
+        ],
+        "answer": "C"
+      },
+      {
+        "question": "46. O que é um Sujeito Composto?",
+        "options": [
+          "A) Um sujeito que tem apenas um núcleo",
+          "B) Um sujeito que tem dois ou mais núcleos",
+          "C) Um sujeito que é um pronome",
+          "D) Um sujeito que é oculto"
+        ],
+        "answer": "B"
+      },
+      {
+        "question": "47. O que é um Complemento Verbal?",
+        "options": [
+          "A) Modifica o verbo",
+          "B) Explica ou detalha o substantivo",
+          "C) Completa o sentido do verbo",
+          "D) Conecta palavras"
+        ],
+        "answer": "C"
+      },
+      {
+        "question": "48. Qual é a função de uma Preposição?",
+        "options": [
+          "A) Modificar o verbo",
+          "B) Conectar palavras e mostrar relações",
+          "C) Explicar ou detalhar o substantivo",
+          "D) Completar o sentido do verbo"
+        ],
+        "answer": "B"
+      },
+      {
+        "question": "49. O que é uma Conjunção?",
+        "options": [
+          "A) Modificar o verbo",
+          "B) Conectar orações ou palavras",
+          "C) Substituir substantivos",
+          "D) Explicar ou detalhar o substantivo"
+        ],
+        "answer": "B"
+      },
+      {
+        "question": "50. Qual é um exemplo de uma Conjunção Coordenativa?",
+        "options": [
+          "A) 'E'",
+          "B) 'Por causa de'",
+          "C) 'Com relação a'",
+          "D) 'Que'"
+        ],
+        "answer": "A"
+      },
+      {
+        "question": "51. Qual é um exemplo de uma Conjunção Subordinativa?",
+        "options": [
+          "A) 'E'",
+          "B) 'Por causa de'",
+          "C) 'Embora'",
+          "D) 'Com relação a'"
+        ],
+        "answer": "C"
+      },
+      {
+        "question": "52. O que é uma Interjeição?",
+        "options": [
+          "A) Modificar o verbo",
+          "B) Conectar orações ou palavras",
+          "C) Expressar emoções ou reações",
+          "D) Explicar ou detalhar o substantivo"
+        ],
+        "answer": "C"
+      },
+      {
+        "question": "53. O que é Sinonímia?",
+        "options": [
+          "A) Palavras com significados opostos",
+          "B) Palavras com a mesma forma, mas significados diferentes",
+          "C) Palavras com significados semelhantes",
+          "D) Uma palavra com vários significados"
+        ],
+        "answer": "C"
+      },
+      {
+        "question": "54. O que é Antonímia?",
+        "options": [
+          "A) Palavras com significados semelhantes",
+          "B) Palavras com a mesma forma, mas significados diferentes",
+          "C) Palavras com significados opostos",
+          "D) Uma palavra com vários significados"
+        ],
+        "answer": "C"
+      },
+      {
+        "question": "55. O que é Homonímia?",
+        "options": [
+          "A) Palavras com significados opostos",
+          "B) Uma palavra com vários significados",
+          "C) Palavras com a mesma forma, mas significados diferentes",
+          "D) Palavras com significados semelhantes"
+        ],
+        "answer": "C"
+      },
+      {
+        "question": "56. O que é Polissemia?",
+        "options": [
+          "A) Palavras com significados opostos",
+          "B) Palavras com a mesma forma, mas significados diferentes",
+          "C) Palavras com significados semelhantes",
+          "D) Uma palavra com vários significados"
+        ],
+        "answer": "D"
+      },
+      {
+        "question": "57. Qual é um exemplo de Sinonímia?",
+        "options": [
+          "A) 'Cadeira' e 'assento'",
+          "B) 'Cadeira' e 'sofá'",
+          "C) 'Cadeira' e 'mesa'",
+          "D) 'Cadeira' e 'piso'"
+        ],
+        "answer": "A"
+      },
+      {
+        "question": "58. Qual é um exemplo de Antonímia?",
+        "options": [
+          "A) 'Cadeira' e 'assento'",
+          "B) 'Cadeira' e 'sofá'",
+          "C) 'Cadeira' e 'piso'",
+          "D) 'Cadeira' e 'banquinho'"
+        ],
+        "answer": "D"
+      },
+      {
+        "question": "59. Qual é um exemplo de Homonímia?",
+        "options": [
+          "A) 'Banco' (instituição financeira) e 'banco' (assento)",
+          "B) 'Cadeira' e 'sofá'",
+          "C) 'Cadeira' e 'mesa'",
+          "D) 'Cadeira' e 'assento'"
+        ],
+        "answer": "A"
+      },
+      {
+        "question": "60. Qual é um exemplo de Polissemia?",
+        "options": [
+          "A) 'Banco' (instituição financeira) e 'banco' (assento)",
+          "B) 'Cadeira' e 'sofá'",
+          "C) 'Cadeira' e 'mesa'",
+          "D) 'Boca' (órgão) e 'boca' (entrada)"
+        ],
+        "answer": "D"
+      }
+    ]
+  }
+  
